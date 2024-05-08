@@ -1,0 +1,1891 @@
+[
+  {
+    "question_html":  "<div class=\"container\"><div class=\"question\"><h2>🔷 Area and Perimeter Challenge 🔶</h2><p>Find the perimeter of a rectangle with a length of 7 units and a width of 5 units.</p><img src=\"Images/Question 1.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"><ol type=\"A\"><li>10 units</li><li>12 units</li><li>20 units</li><li>24 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Challenge 🔷🔶</h2><div class=\"example\"><h3>Solution:</h3><p>To find the perimeter of a rectangle, you add all the sides. In this case, 7 + 7 + 5 + 5 = 24 units.</p><h3>Rectangular Revelation! 🌟</h3><p>The perimeter of the rectangle is <strong>24 units</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "numeric_values": "7, 5, 7, 5",
+    "difficulty_level": "2",
+    "topic": "Calculate the area of a rectangle with whole number side lengths",
+    "grade": "4",
+    "hint": "Perimeter is the sum of all sides of a shape"
+  },
+  { 
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Area and Perimeter Challenge 🔴</h2><p>A rectangular garden has a length of 12 meters and a width of 8 meters. What is the area of the garden?</p><ol type=\"A\"><li>80 square meters</li><li>96 square meters</li><li>100 square meters</li><li>104 square meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Challenge 🔺🔴</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of a rectangle, multiply its length by its width. In this case, 12 * 8 = 96 square meters.</p><h3>Garden Glory! 🌟</h3><p>The area of the garden is <strong>96 square meters</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "12, 8",
+    "difficulty_level": "3",
+    "topic": "Calculate the area of a rectangle with whole number side lengths",
+    "grade": "4",
+    "hint": "Area is length multiplied by width"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Area and Perimeter Challenge 🔶</h2><p>A field is in the shape of a rectangle with a length of 15 yards and a width of 10 yards. What is the perimeter of the field? <img src=\"Images/Question 3.png\"alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"></p><ol type=\"A\"><li>25 yards</li><li>35 yards</li><li>40 yards</li><li>50 yards</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Challenge 🔶🔷</h2><div class=\"example\"><h3>Solution:</h3><p>To find the perimeter of a rectangle, add all the sides. In this case, 15 + 15 + 10 + 10 = 50 yards.</p><h3>Field Fun! 🌟</h3><p>The perimeter of the field is <strong>50 yards</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "numeric_values": "15, 10, 15, 10",
+    "difficulty_level": "2",
+    "topic": "Calculate the area of a rectangle with whole number side lengths",
+    "grade": "4",
+    "hint": "Perimeter is the sum of all sides of a shape"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Perimeter Puzzle 🔷</h2><p>Ahaan has a rectangular garden with a length of 12 feet and a width of 8 feet. What is the perimeter of Ahaan's garden?</p><ol type=\"A\"><li>36 feet</li><li>40 feet</li><li>28 feet</li><li>20 feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzle 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>The perimeter of a rectangle is given by the formula P = 2(l + w), where l is the length and w is the width. Substituting the values, P = 2(12 + 8) = 2(20) = 40 feet.</p><h3>Precision Perimeter! 🌟</h3><p>The perimeter of Ahaan's garden is <strong>40 feet</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "12, 8",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a rectangle is 2(l + w)",
+    "suggested_image": "A rectangular garden"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔸 Area Amazement 🔸</h2><p>Rav has a square garden with a side length of 5 meters. What is the area of Rav's garden? <img src=\"Images/Question 5.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"></p><ol type=\"A\"><li>25 sq meters</li><li>20 sq meters</li><li>30 sq meters</li><li>15 sq meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Amazement 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>The area of a square is given by the formula A = side length * side length. Substituting the value, A = 5 * 5 = 25 sq meters.</p><h3>Square Spectacle! 🌟</h3><p>The area of Rav's garden is <strong>25 sq meters</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "5",
+    "difficulty_level": "2",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area of a square is side length * side length",
+    "suggested_image": "A square garden"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔻 Perimeter Predicament 🔻</h2><p>Neel has an equilateral triangle with each side measuring 6 inches. What is the perimeter of Neel's triangle?</p><ol type=\"A\"><li>16 inches</li><li>18 inches</li><li>20 inches</li><li>24 inches</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Predicament 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>Since it's an equilateral triangle, all sides are equal. The perimeter is the sum of all sides. Substituting the value, Perimeter = 6 + 6 + 6 = 18 inches.</p><h3>Triangle Triumph! 🌟</h3><p>The perimeter of Neel's triangle is <strong>18 inches</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "6",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "In an equilateral triangle, all sides are equal",
+    "suggested_image": "An equilateral triangle"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔹 Area Adventure 🔹</h2><p>Tanishka has a right-angled triangle with base 5 cm and height 12 cm. What is the area of Tanishka's triangle?</p><ol type=\"A\"><li>30 sq cm</li><li>60 sq cm</li><li>36 sq cm</li><li>40 sq cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Adventure 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>The area of a triangle is given by the formula A = 0.5 * base * height for a right-angled triangle. Substituting the values, A = 0.5 * 5 * 12 = 30 sq cm.</p><h3>Triangle Triumph! 🌟</h3><p>The area of Tanishka's triangle is <strong>30 sq cm</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "5, 12",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area of a right-angled triangle is 0.5 * base * height",
+    "suggested_image": "A right-angled triangle"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Puzzle 🔺</h2><p>Dev has a pentagon with sides measuring 4 cm each. What is the perimeter of Dev's pentagon?</p><ol type=\"A\"><li>20 cm</li><li>24 cm</li><li>16 cm</li><li>18 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzle 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>A pentagon has 5 equal sides. The perimeter is the sum of all sides. Substituting the value, Perimeter = 4 + 4 + 4 + 4 + 4 = 20 cm.</p><h3>Precision Perimeter! 🌟</h3><p>The perimeter of Dev's pentagon is <strong>20 cm</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "4",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "In a pentagon, all sides are equal",
+    "suggested_image": "A pentagon"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔶 Area Artistry 🔶</h2><p>Aksh has a trapezoid with bases of length 6 cm and 8 cm and height 4 cm. What is the area of Aksh's trapezoid?</p><ol type=\"A\"><li>28 sq cm</li><li>24 sq cm</li><li>32 sq cm</li><li>30 sq cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Artistry 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>The area of a trapezoid is given by the formula A = 0.5 * (sum of bases) * height. Substituting the values, A = 0.5 * (6 + 8) * 4 = 0.5 * 14 * 4 = 28 sq cm.</p><h3>Trapezoid Triumph! 🌟</h3><p>The area of Aksh's trapezoid is <strong>28 sq cm</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "6, 8, 4",
+    "difficulty_level": "7",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area of a trapezoid is 0.5 * (sum of bases) * height",
+    "suggested_image": "A trapezoid"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔻 Perimeter Predicament 🔻</h2><p>Ami has a hexagon with sides measuring 3 units each. What is the perimeter of Ami's hexagon?</p><ol type=\"A\"><li>15 units</li><li>18 units</li><li>21 units</li><li>24 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Predicament 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>A hexagon has 6 equal sides. The perimeter is the sum of all sides. Substituting the value, Perimeter = 3 + 3 + 3 + 3 + 3 + 3 = 18 units.</p><h3>Hexagon Hustle! 🌟</h3><p>The perimeter of Ami's hexagon is <strong>18 units</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "3",
+    "difficulty_level": "8",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "In a hexagon, all sides are equal",
+    "suggested_image": "A hexagon"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔹 Area Adventure 🔹</h2><p>Alex has a parallelogram with base 10 cm and height 6 cm. What is the area of Alex's parallelogram?</p><ol type=\"A\"><li>60 sq cm</li><li>50 sq cm</li><li>40 sq cm</li><li>30 sq cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Adventure 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>The area of a parallelogram is given by the formula A = base * height. Substituting the values, A = 10 * 6 = 60 sq cm.</p><h3>Parallelogram Perfection! 🌟</h3><p>The area of Alex's parallelogram is <strong>60 sq cm</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "10, 6",
+    "difficulty_level": "9",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area of a parallelogram is base * height",
+    "suggested_image": "A parallelogram"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Perimeter Puzzle 🔷</h2><p>Andy has a rhombus with each side measuring 7 units. What is the perimeter of Andy's rhombus?</p><ol type=\"A\"><li>28 units</li><li>30 units</li><li>32 units</li><li>35 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzle 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>Since it's a rhombus, all sides are equal. The perimeter is the sum of all sides. Substituting the value, Perimeter = 7 + 7 + 7 + 7 = 28 units.</p><h3>Rhombus Riddle! 🌟</h3><p>The perimeter of Andy's rhombus is <strong>28 units</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "7",
+    "difficulty_level": "10",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "In a rhombus, all sides are equal",
+    "suggested_image": "A rhombus"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔵 Area Challenge 🔵</h2><p>If a rectangle has a length of 8 units and a width of 5 units, what is the area of the rectangle?</p><ol type='A'><li>13 sq. units</li><li>30 sq. units</li><li>40 sq. units</li><li>45 sq. units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Challenge 🔷</h2><div class='example'><h3>Solution:</h3><p>To find the area of a rectangle, multiply its length by its width. So, the area = 8 units * 5 units = 40 sq. units.</p><h3>Rectangle Riddle! 🌟</h3><p>The area of the rectangle is <strong>40 sq. units</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "numeric_values": "8, 5, 40",
+    "difficulty_level": "2",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember, area of a rectangle = length * width."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔺 Perimeter Puzzle 🔺</h2><p>If a square has a side length of 6 units, what is the perimeter of the square?</p><ol type='A'><li>18 units</li><li>24 units</li><li>30 units</li><li>36 units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Puzzle 🔻</h2><div class='example'><h3>Solution:</h3><p>The perimeter of a square is found by adding all four sides. So, the perimeter = 6 units + 6 units + 6 units + 6 units = 24 units.</p><h3>Square Success! 🌟</h3><p>The perimeter of the square is <strong>24 units</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "6, 24",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a square = sum of all four sides."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔵 Area Challenge 🔵</h2><p>If a triangle has a base of 10 units and a height of 6 units, what is the area of the triangle?</p><ol type='A'><li>20 sq. units</li><li>30 sq. units</li><li>36 sq. units</li><li>45 sq. units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Challenge 🔷</h2><div class='example'><h3>Solution:</h3><p>To find the area of a triangle, multiply its base by its height and divide by 2. So, the area = (10 units * 6 units) / 2 = 30 sq. units.</p><h3>Triangle Triumph! 🌟</h3><p>The area of the triangle is <strong>30 sq. units</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "10, 6, 30",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area of a triangle = (base * height) / 2."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔺 Perimeter Puzzle 🔺</h2><p>If a rectangle has a length of 12 units and a width of 7 units, what is the perimeter of the rectangle?</p><ol type='A'><li>24 units</li><li>38 units</li><li>42 units</li><li>56 units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Puzzle 🔻</h2><div class='example'><h3>Solution:</h3><p>The perimeter of a rectangle is found by adding all four sides. So, the perimeter = 12 units + 7 units + 12 units + 7 units = 38 units.</p><h3>Rectangle Riddle! 🌟</h3><p>The perimeter of the rectangle is <strong>38 units</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "12, 7, 38",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter is the sum of all sides of a shape."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔵 Area Challenge 🔵</h2><p>If a square has an area of 49 sq. units, what is the length of each side?</p><ol type='A'><li>4 units</li><li>6 units</li><li>7 units</li><li>8 units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Challenge 🔷</h2><div class='example'><h3>Solution:</h3><p>To find the length of each side of a square when given the area, you need to find the square root of the area. So, the length of each side = √49 sq. units = 7 units.</p><h3>Square Secret! 🌟</h3><p>The length of each side of the square is <strong>7 units</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "numeric_values": "49, 7",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "To find the length of each side of a square, find the square root of the area."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🌟 Area and Perimeter Challenge 🌟</h2><p>Ahaan's rectangular garden has a length of 12 feet and a width of 6 feet. If he wants to plant flowers in the garden, how much area will he need to cover?</p><ol type='A'><li>Area: 72 sq. ft</li><li>Area: 48 sq. ft</li><li>Area: 36 sq. ft</li><li>Area: 24 sq. ft</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area and Perimeter Challenge 🧠</h2><div class='example'><h3>Solution:</h3><p>Area of the rectangular garden = Length * Width = 12 ft * 6 ft = 72 sq. ft</p><h3>Great job! 🎉</h3><p>The area Ahaan needs to cover is <strong>72 sq. ft</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "6",
+    "topic": "Find the area of composite figures made up of rectangles or squares.",
+    "grade": "4",
+    "hint": "Calculate the area of the rectangle by multiplying its length and width.",
+    "suggested_image": "Rectangular garden with length and width dimensions."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Area and Perimeter Puzzle 🔷</h2><p>Ru wants to build a square pen for her pet rabbit with a perimeter of 36 feet. What should be the length of each side of the square pen?</p><ol type='A'><li>9 ft</li><li>6 ft</li><li>12 ft</li><li>18 ft</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area and Perimeter Puzzle 🔍</h2><div class='example'><h3>Solution:</h3><p>Perimeter of a square = 4 * side length<br>Given, perimeter = 36 ft<br>Therefore, side length = 36 ft / 4 = 9 ft</p><h3>Well done! 🌟</h3><p>The length of each side of the square pen should be <strong>9 ft</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "5",
+    "topic": "Find the area of composite figures made up of rectangles or squares.",
+    "grade": "4",
+    "hint": "Remember, the perimeter of a square is 4 times the length of its side.",
+    "suggested_image": "Square pen with a given perimeter."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔶 Area and Perimeter Riddle 🔶</h2><p>Vish is painting a triangular flag with a base of 8 feet and a height of 12 feet. What will be the area of the painted region on the flag?</p><ol type='A'><li>48 sq. ft</li><li>24 sq. ft</li><li>36 sq. ft</li><li>64 sq. ft</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area and Perimeter Riddle 🧩</h2><div class='example'><h3>Solution:</h3><p>Area of a triangle = 0.5 * base * height<br>Given, base = 8 ft, height = 12 ft<br>Area = 0.5 * 8 ft * 12 ft = 48 sq. ft</p><h3>Awesome work! 🎊</h3><p>The area of the painted region on the flag is <strong>48 sq. ft</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "7",
+    "topic": "Find the area of composite figures made up of rectangles or squares.",
+    "grade": "4",
+    "hint": "Use the formula for the area of a triangle: 0.5 * base * height.",
+    "suggested_image": "Triangular flag with base and height dimensions."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔵 Area and Perimeter Challenge 🔵</h2><p>Rav is making a regular hexagonal patterned tile with each side measuring 10 inches. What will be the total perimeter of the tile?</p><ol type='A'><li>60 in</li><li>70 in</li><li>80 in</li><li>90 in</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area and Perimeter Challenge 🧩</h2><div class='example'><h3>Solution:</h3><p>Perimeter of a regular hexagon = 6 * side length<br>Given, side length = 10 in<br>Perimeter = 6 * 10 in = 60 in</p><h3>Fantastic! 🎉</h3><p>The total perimeter of the hexagonal tile is <strong>60 in</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "8",
+    "topic": "Find the area of composite figures made up of rectangles or squares.",
+    "grade": "4",
+    "hint": "Remember, a regular hexagon has 6 equal sides.",
+    "suggested_image": "Hexagonal tile with side length dimension."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🌈 Area and Perimeter Riddle 🌈</h2><p>Neel wants to make a circular pond in his backyard with a radius of 8 feet. What will be the area of the pond he needs to fill with water?</p><ol type='A'><li>200.96 sq. ft</li><li>100.53 sq. ft</li><li>50.27 sq. ft</li><li>25.13 sq. ft</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area and Perimeter Riddle 🧩</h2><div class='example'><h3>Solution:</h3><p>Area of a circle = π * radius^2<br>Given, radius = 8 ft, π = 3.14 (approx.)<br>Area = 3.14 * 8 ft * 8 ft = 200.96 sq. ft (approx.)</p><h3>Well done! 🎉</h3><p>The area of the circular pond Neel needs to fill is approximately <strong>200.96 sq. ft</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "9",
+    "topic": "Find the area of composite figures made up of rectangles or squares.",
+    "grade": "4",
+    "hint": "Use the formula for the area of a circle: π * radius^2.",
+    "suggested_image": "Circular pond with a given radius."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔴 Area and Perimeter Challenge 🔴</h2><p>Tanishka's parallelogram-shaped rug has a base of 15 feet and a height of 8 feet. What will be the total length of the edges of the rug?</p><ol type='A'><li>46 ft</li><li>38 ft</li><li>30 ft</li><li>22 ft</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area and Perimeter Challenge 🧠</h2><div class='example'><h3>Solution:</h3><p>Perimeter of a parallelogram = 2 * (base + height)<br>Given, base = 15 ft, height = 8 ft<br>Perimeter = 2 * (15 ft + 8 ft) = 46 ft</p><h3>Great job! 🎉</h3><p>The total length of the edges of the rug is <strong>46 ft</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "7",
+    "topic": "Find the area of composite figures made up of rectangles or squares.",
+    "grade": "4",
+    "hint": "Calculate the perimeter of a parallelogram using the formula 2 * (base + height).",
+    "suggested_image": "Parallelogram-shaped rug with base and height dimensions."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🌟 Area and Perimeter Challenge 🌟</h2><p>What is the perimeter of a rectangle with length 8 cm and width 5 cm?</p><ol type=\"A\"><li>13 cm</li><li>18 cm</li><li>26 cm</li><li>40 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Challenge 🌟</h2><div class=\"example\"><h3>Solution:</h3><p>To find the perimeter of a rectangle, you add up all the sides. Perimeter = 2 * (length + width) = 2 * (8 + 5) = 2 * 13 = 26 cm.</p><h3>Perimeter Power! 🌟</h3><p>The perimeter of the rectangle is <strong>26 cm</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "2",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember for rectangle, Perimeter = 2 * (lenght + width)."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Puzzle 🔺</h2><p>If the perimeter of a square is 36 cm, what is the length of each side?</p><ol type=\"A\"><li>6 cm</li><li>9 cm</li><li>12 cm</li><li>18 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzle 🔺</h2><div class=\"example\"><h3>Solution:</h3><p>Since a square has all sides equal, to find the length of each side, you divide the perimeter by 4. Side length = Perimeter / 4 = 36 / 4 = 9 cm.</p><h3>Perimeter Perfection! 🌟</h3><p>The length of each side of the square is <strong>9 cm</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember that all sides of a square are equal."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area Adventure 🔵</h2><p>What is the area of a rectangle with length 10 cm and width 4 cm?</p><ol type=\"A\"><li>20 sq. cm</li><li>30 sq. cm</li><li>40 sq. cm</li><li>50 sq. cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Adventure 🔵</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of a rectangle, you multiply the length by the width. Area = length * width = 10 * 4 = 40 sq. cm.</p><h3>Area Astonishment! 🌟</h3><p>The area of the rectangle is <strong>40 sq. cm</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "2",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember to multiply the length by the width to find the area."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔶 Area Anomaly 🔶</h2><p>If the area of a square is 64 sq. cm, what is the length of each side?</p><ol type=\"A\"><li>6 cm</li><li>8 cm</li><li>10 cm</li><li>12 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Anomaly 🔶</h2><div class=\"example\"><h3>Solution:</h3><p>Since a square has all sides equal, to find the length of each side, you take the square root of the area. Side length = sqrt(area) = sqrt(64) = 8 cm.</p><h3>Area Amazement! 🌟</h3><p>The length of each side of the square is <strong>8 cm</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember that the area of a square is side length squared."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Perimeter Predicament 🔷</h2><p>The perimeter of a triangle is 24 cm. If one side is 5 cm and the second side is 8 cm, what is the length of the third side?</p><ol type=\"A\"><li>5 cm</li><li>8 cm</li><li>11 cm</li><li>16 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Predicament 🔷</h2><div class=\"example\"><h3>Solution:</h3><p>To find the length of the third side, subtract the sum of the other two sides from the perimeter. Third side = Perimeter - (5 + 8) = 24 - 13 = 11 cm.</p><h3>Perimeter Perplexity! 🌟</h3><p>The length of the third side of the triangle is <strong>11 cm</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember to subtract the sum of the known sides from the perimeter to find the unknown side."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🟩 Area Anecdote 🟩</h2><p>If the area of a rectangle is 35 sq. cm and the width is 5 cm, what is the length of the rectangle?</p><ol type=\"A\"><li>5 cm</li><li>7 cm</li><li>10 cm</li><li>12 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Anecdote 🟩</h2><div class=\"example\"><h3>Solution:</h3><p>To find the length of the rectangle, divide the area by the width. Length = Area / Width = 35 / 5 = 7 cm.</p><h3>Area Amusement! 🌟</h3><p>The length of the rectangle is <strong>7 cm</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember to divide the area by the width to find the length."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Perimeter Plight 🔵</h2><p>The perimeter of a triangle is 30 cm. If one side is 12 cm and the second side is 8 cm, what is the length of the third side?</p><ol type=\"A\"><li>6 cm</li><li>10 cm</li><li>12 cm</li><li>18 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Plight 🔵</h2><div class=\"example\"><h3>Solution:</h3><p>To find the length of the third side, subtract the sum of the other two sides from the perimeter. Third side = Perimeter - (12 + 8) = 30 - 20 = 10 cm.</p><h3>Perimeter Puzzlement! 🌟</h3><p>The length of the third side of the triangle is <strong>10 cm</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "7",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember to subtract the sum of the known sides from the perimeter to find the unknown side."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Area Enigma 🔷</h2><p>What is the area of a rectangle with length 7 cm and width 6 cm?</p><ol type=\"A\"><li>36 sq. cm</li><li>42 sq. cm</li><li>48 sq. cm</li><li>52 sq. cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Enigma 🔷</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of a rectangle, you multiply the length by the width. Area = length * width = 7 * 6 = 42 sq. cm.</p><h3>Area Amazement! 🌟</h3><p>The area of the rectangle is <strong>42 sq. cm</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "8",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember to multiply the length by the width to find the area."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🌟 Perimeter Puzzle 🌟</h2><p>If the perimeter of a rectangle is 28 cm and the width is 6 cm, what is the length of the rectangle?</p><ol type=\"A\"><li>8 cm</li><li>10 cm</li><li>11 cm</li><li>12 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzle 🌟</h2><div class=\"example\"><h3>Solution:</h3><p>To find the length of the rectangle, subtract twice the width from the perimeter, then divide the result by 2. Length = Perimeter - 2 * Width = 28 - (2 * 6) = 28 - 12 = 16 cm = 16 cm / 2 = 8 cm.</p><h3>Perimeter Power! 🌟</h3><p>The length of the rectangle is <strong>8 cm</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "9",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember to subtract twice the width from the perimeter and divide the answer by 2 to find the length."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area Anomaly 🔵</h2><p>What is the area of a square with a perimeter of 20 cm?</p><ol type=\"A\"><li>16 sq. cm</li><li>20 sq. cm</li><li>25 sq. cm</li><li>36 sq. cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Anomaly 🔵</h2><div class=\"example\"><h3>Solution:</h3><p>Since a square has all sides equal, to find the area, you first find the length of each side by dividing the perimeter by 4. Side length = Perimeter / 4 = 20 / 4 = 5 cm. Then, you square the side length to find the area. Area = side length squared = 5^2 = 25 sq. cm.</p><h3>Area Astonishment! 🌟</h3><p>The area of the square is <strong>25 sq. cm</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "10",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember to find the side length by dividing the perimeter by 4, then square the side length to find the area."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Rectangle Challenge 🔷</h2><p>A rectangle has a length of 8 cm and a width of 5 cm. What is the perimeter of the rectangle?</p><ol type=\"A\"><li>26 cm</li><li>18 cm</li><li>40 cm</li><li>13 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Rectangle Challenge 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>To find the perimeter of a rectangle, we use the formula: 2 x (length + width). Substituting the values, we get: 2 x (8 + 5) = 2 x 13 = 26 cm.</p><h3>Rectangular Triumph! 🌟</h3><p>The perimeter of the rectangle is <strong>26 cm</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "8, 5",
+    "difficulty_level": "2",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a rectangle = 2 x (length + width)",
+    "suggested_image": "A rectangle with dimensions labeled."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>◻ Square Mystery ◻</h2><p>If the area of a square is 64 square units, what is the length of one side?</p><ol type=\"A\"><li>8 units</li><li>16 units</li><li>32 units</li><li>12 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Square Mystery ◽</h2><div class=\"example\"><h3>Solution:</h3><p>To find the length of one side of a square when given the area, we take the square root of the area. The square root of 64 is 8, so the length of one side is <strong>8 units</strong>.</p><h3>Square Success! 🌟</h3></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "64",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "To find the length of one side of a square given the area, take the square root of the area.",
+    "suggested_image": "A square with area labeled."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔶 Perimeter Puzzle 🔶</h2><p>The perimeter of a square is 20 cm. What is the length of one side of the square?</p><ol type=\"A\"><li>5 cm</li><li>10 cm</li><li>4 cm</li><li>8 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzle 🔸</h2><div class=\"example\"><h3>Solution:</h3><p>Since all sides of a square are equal, to find the length of one side given the perimeter, we divide the perimeter by 4. Therefore, 20 / 4 = 5 cm.</p><h3>Perimeter Perfect! 🌟</h3><p>The length of one side of the square is <strong>5 cm</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "20",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "To find the length of one side of a square given the perimeter, divide the perimeter by 4.",
+    "suggested_image": "A square with perimeter labeled."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>◼ Area Adventure ◼</h2><p>If the area of a rectangle is 45 square units and the length is 9 units, what is the width of the rectangle?</p><ol type=\"A\"><li>5 units</li><li>6 units</li><li>4 units</li><li>7 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Adventure ◾</h2><div class=\"example\"><h3>Solution:</h3><p>To find the width of a rectangle given the area and length, we divide the area by the length. Substituting the values, we get: 45 / 9 = 5 units.</p><h3>Area Achievement! 🌟</h3><p>The width of the rectangle is <strong>5 units</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "45, 9",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "To find the width of a rectangle given the area and length, divide the area by the length.",
+    "suggested_image": "A rectangle with area and length labeled."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Tricky Triangle 🔵</h2><p>A triangle has a base of 12 cm and a height of 6 cm. What is the area of the triangle?</p><ol type=\"A\"><li>36 sq cm</li><li>24 sq cm</li><li>48 sq cm</li><li>18 sq cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Tricky Triangle 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of a triangle, we use the formula: 0.5 x base x height. Substituting the values, we get: 0.5 x 12 x 6 = 36 sq cm.</p><h3>Triangle Triumph! 🌟</h3><p>The area of the triangle is <strong>36 sq cm</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "12, 6",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "To find the area of a triangle, use the formula: 0.5 x base x height.",
+    "suggested_image": "A triangle with base and height labeled."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>◾ Perimeter Perplexity ◾</h2><p>The perimeter of a rectangle is 26 units. If the length is 8 units, what is the width of the rectangle?</p><ol type=\"A\"><li>5 units</li><li>10 units</li><li>4 units</li><li>6 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Perplexity ◾</h2><div class=\"example\"><h3>Solution:</h3><p>To find the width of a rectangle given the perimeter and length, we subtract twice the length from the perimeter and half the answer. Substituting the values, we get: (26 - 2 * 8) / 2 = 10 / 2 = 5 units.</p><h3>Perimeter Power! 🌟</h3><p>The width of the rectangle is <strong>5 units</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "26, 8",
+    "difficulty_level": "7",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "To find the width of a rectangle given the perimeter and length, subtract twice the length from the perimeter and half the answer.",
+    "suggested_image": "A rectangle with perimeter and length labeled."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔶 Area Amazement 🔶</h2><p>If the area of a square is 100 square units, what is the length of one side?</p><ol type=\"A\"><li>10 units</li><li>20 units</li><li>25 units</li><li>15 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Amazement 🔶</h2><div class=\"example\"><h3>Solution:</h3><p>To find the length of one side of a square when given the area, we take the square root of the area. The square root of 100 is 10, so the length of one side is <strong>10 units</strong>.</p><h3>Square Success! 🌟</h3></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "100",
+    "difficulty_level": "8",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "To find the length of one side of a square given the area, take the square root of the area.",
+    "suggested_image": "A square with area labeled."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Perimeter Puzzle 🔷</h2><p>The perimeter of a square is 40 cm. What is the length of one side of the square?</p><ol type=\"A\"><li>10 cm</li><li>20 cm</li><li>5 cm</li><li>15 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzle 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>Since all sides of a square are equal, to find the length of one side given the perimeter, we divide the perimeter by 4. Therefore, 40 / 4 = 10 cm.</p><h3>Perimeter Perfect! 🌟</h3><p>The length of one side of the square is <strong>10 cm</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "40",
+    "difficulty_level": "9",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "To find the length of one side of a square given the perimeter, divide the perimeter by 4.",
+    "suggested_image": "A square with perimeter labeled."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>◻ Area Adventure ◻</h2><p>If the area of a rectangle is 72 square units and the length is 9 units, what is the width of the rectangle?</p><ol type=\"A\"><li>8 units</li><li>6 units</li><li>4 units</li><li>12 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Adventure ◽</h2><div class=\"example\"><h3>Solution:</h3><p>To find the width of a rectangle given the area and length, we divide the area by the length. Substituting the values, we get: 72 / 9 = 8 units.</p><h3>Area Achievement! 🌟</h3><p>The width of the rectangle is <strong>8 units</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "72, 9",
+    "difficulty_level": "10",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "To find the width of a rectangle given the area and length, divide the area by the length.",
+    "suggested_image": "A rectangle with area and length labeled."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔴 Area Alert! 🔴</h2><p>If a rectangle has a length of 6 cm and a width of 4 cm, what is the area of the rectangle?</p><ol type='A'><li>10 sq cm</li><li>20 sq cm</li><li>24 sq cm</li><li>30 sq cm</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Alert! 🔴</h2><div class='example'><h3>Solution:</h3><p>To find the area of a rectangle, multiply the length by the width. So, Area = 6 cm * 4 cm = 24 sq cm.</p><h3>Area Achiever! 🌟</h3><p>The area of the rectangle is <strong>24 sq cm</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "numeric_values": "6, 4, 24",
+    "difficulty_level": "2",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember, area of a rectangle = length * width",
+    "suggested_image": "A rectangle with length 6 cm and width 4 cm."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🟠 Perimeter Ponder! 🟠</h2><p>If a square has a side length of 5 units, what is the perimeter of the square?</p><ol type='A'><li>10 units</li><li>15 units</li><li>20 units</li><li>25 units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Ponder! 🟠</h2><div class='example'><h3>Solution:</h3><p>The perimeter of a square is found by adding all the side lengths. Since all sides of a square are equal, the perimeter = 4 * side length = 4 * 5 = 20 units.</p><h3>Perimeter Prodigy! 🌟</h3><p>The perimeter of the square is <strong>20 units</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "numeric_values": "5, 20",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "For a square, all sides are equal, so you can simply multiply the side length by 4 to find the perimeter.",
+    "suggested_image": "A square with side length of 5 units."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Tricky Triangle! 🔷</h2><p>A triangle has a base of 8 cm and a height of 6 cm. What is the area of the triangle?</p><ol type='A'><li>24 sq cm</li><li>20 sq cm</li><li>30 sq cm</li><li>36 sq cm</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Tricky Triangle! 🔷</h2><div class='example'><h3>Solution:</h3><p>To find the area of a triangle, use the formula: Area = 0.5 * base * height. Substituting the values, Area = 0.5 * 8 cm * 6 cm = 24 sq cm.</p><h3>Triangle Triumph! 🌟</h3><p>The area of the triangle is <strong>24 sq cm</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "8, 6, 24",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember, for a triangle, Area = 0.5 * base * height",
+    "suggested_image": "A triangle with base 8 cm and height 6 cm."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔴 Area Alert! 🔴</h2><p>If a rectangle has a length of 8 units and a width of 5 units, what is the area of the rectangle?</p><ol type='A'><li>15 sq units</li><li>30 sq units</li><li>40 sq units</li><li>45 sq units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Alert! 🔴</h2><div class='example'><h3>Solution:</h3><p>To find the area of a rectangle, multiply the length by the width. So, Area = 8 units * 5 units = 40 sq units.</p><h3>Area Achiever! 🌟</h3><p>The area of the rectangle is <strong>40 sq units</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "numeric_values": "8, 5, 40",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember, area of a rectangle = length * width",
+    "suggested_image": "A rectangle with length 8 units and width 5 units."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🟠 Perimeter Ponder! 🟠</h2><p>If a square has a side length of 12 units, what is the perimeter of the square?</p><ol type='A'><li>24 units</li><li>36 units</li><li>48 units</li><li>60 units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Ponder! 🟠</h2><div class='example'><h3>Solution:</h3><p>The perimeter of a square is found by adding all the side lengths. Since all sides of a square are equal, the perimeter = 4 * side length = 4 * 12 = 48 units.</p><h3>Perimeter Prodigy! 🌟</h3><p>The perimeter of the square is <strong>48 units</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "numeric_values": "12, 48",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "For a square, all sides are equal, so you can simply multiply the side length by 4 to find the perimeter.",
+    "suggested_image": "A square with side length of 12 units."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Tricky Triangle! 🔷</h2><p>A triangle has a base of 10 cm and a height of 7 cm. What is the area of the triangle?</p><ol type='A'><li>35 sq cm</li><li>40 sq cm</li><li>45 sq cm</li><li>50 sq cm</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Tricky Triangle! 🔷</h2><div class='example'><h3>Solution:</h3><p>To find the area of a triangle, use the formula: Area = 0.5 * base * height. Substituting the values, Area = 0.5 * 10 cm * 7 cm = 35 sq cm.</p><h3>Triangle Triumph! 🌟</h3><p>The area of the triangle is <strong>35 sq cm</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "10, 7, 35",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember, for a triangle, Area = 0.5 * base * height",
+    "suggested_image": "A triangle with base 10 cm and height 7 cm."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔴 Area Alert! 🔴</h2><p>If a rectangle has a length of 10 units and a width of 6 units, what is the area of the rectangle?</p><ol type='A'><li>36 sq units</li><li>40 sq units</li><li>50 sq units</li><li>60 sq units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Alert! 🔴</h2><div class='example'><h3>Solution:</h3><p>To find the area of a rectangle, multiply the length by the width. So, Area = 10 units * 6 units = 60 sq units.</p><h3>Area Achiever! 🌟</h3><p>The area of the rectangle is <strong>60 sq units</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "numeric_values": "10, 6, 60",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember, area of a rectangle = length * width",
+    "suggested_image": "A rectangle with length 10 units and width 6 units."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🟠 Perimeter Ponder! 🟠</h2><p>If a square has a side length of 15 units, what is the perimeter of the square?</p><ol type='A'><li>30 units</li><li>45 units</li><li>60 units</li><li>75 units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Ponder! 🟠</h2><div class='example'><h3>Solution:</h3><p>The perimeter of a square is found by adding all the side lengths. Since all sides of a square are equal, the perimeter = 4 * side length = 4 * 15 = 60 units.</p><h3>Perimeter Prodigy! 🌟</h3><p>The perimeter of the square is <strong>60 units</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "numeric_values": "15, 60",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "For a square, all sides are equal, so you can simply multiply the side length by 4 to find the perimeter.",
+    "suggested_image": "A square with side length of 15 units."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Tricky Triangle! 🔷</h2><p>A triangle has a base of 12 cm and a height of 9 cm. What is the area of the triangle?</p><ol type='A'><li>45 sq cm</li><li>54 sq cm</li><li>63 sq cm</li><li>72 sq cm</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Tricky Triangle! 🔷</h2><div class='example'><h3>Solution:</h3><p>To find the area of a triangle, use the formula: Area = 0.5 * base * height. Substituting the values, Area = 0.5 * 12 cm * 9 cm = 54 sq cm.</p><h3>Triangle Triumph! 🌟</h3><p>The area of the triangle is <strong>54 sq cm</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "12, 9, 54",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember, for a triangle, Area = 0.5 * base * height",
+    "suggested_image": "A triangle with base 12 cm and height 9 cm."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔴 Area Alert! 🔴</h2><p>If a rectangle has a length of 12 units and a width of 8 units, what is the area of the rectangle?</p><ol type='A'><li>80 sq units</li><li>90 sq units</li><li>96 sq units</li><li>100 sq units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Alert! 🔴</h2><div class='example'><h3>Solution:</h3><p>To find the area of a rectangle, multiply the length by the width. So, Area = 12 units * 8 units = 96 sq units.</p><h3>Area Achiever! 🌟</h3><p>The area of the rectangle is <strong>96 sq units</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "numeric_values": "12, 8, 96",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember, area of a rectangle = length * width",
+    "suggested_image": "A rectangle with length 12 units and width 8 units."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🟠 Perimeter Ponder! 🟠</h2><p>If a square has a side length of 20 units, what is the perimeter of the square?</p><ol type='A'><li>60 units</li><li>80 units</li><li>100 units</li><li>120 units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Ponder! 🟠</h2><div class='example'><h3>Solution:</h3><p>The perimeter of a square is found by adding all the side lengths. Since all sides of a square are equal, the perimeter = 4 * side length = 4 * 20 = 80 units.</p><h3>Perimeter Prodigy! 🌟</h3><p>The perimeter of the square is <strong>80 units</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "20, 80",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "For a square, all sides are equal, so you can simply multiply the side length by 4 to find the perimeter.",
+    "suggested_image": "A square with side length of 20 units."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Area Challenge 🔷</h2><p>A rectangular garden has a length of 12 feet and a width of 8 feet. What is the area of the garden?</p><ol type=\"A\"><li>86 square feet</li><li>96 square feet</li><li>104 square feet</li><li>110 square feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Challenge 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of a rectangle, multiply the length by the width. In this case, 12 feet * 8 feet = 96 square feet. Therefore, the area of the garden is <strong>96 square feet</strong>.</p><h3>Great Job! 🌟</h3><p>The area of the garden is <strong>96 square feet</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "To find the area of a rectangle, multiply the length by the width."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Area Challenge 🔷</h2><p>A rectangular garden has a length of 15 feet and a width of 10 feet. What is the area of the garden?</p><ol type=\"A\"><li>120 square feet</li><li>130 square feet</li><li>140 square feet</li><li>150 square feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Challenge 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of a rectangle, multiply the length by the width. In this case, 15 feet * 10 feet = 150 square feet. Therefore, the area of the garden is <strong>150 square feet</strong>.</p><h3>Great Job! 🌟</h3><p>The area of the garden is <strong>150 square feet</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "To find the area of a rectangle, multiply the length by the width."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Area Challenge 🔷</h2><p>A rectangular garden has a length of 20 feet and a width of 6 feet. What is the area of the garden?</p><ol type=\"A\"><li>100 square feet</li><li>110 square feet</li><li>120 square feet</li><li>130 square feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Challenge 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of a rectangle, multiply the length by the width. In this case, 20 feet * 6 feet = 120 square feet. Therefore, the area of the garden is <strong>120 square feet</strong>.</p><h3>Great Job! 🌟</h3><p>The area of the garden is <strong>120 square feet</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "To find the area of a rectangle, multiply the length by the width."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Puzzle 🔺</h2><p>A square garden has a perimeter of 40 feet. What is the length of one side of the garden?</p><ol type=\"A\"><li>8 feet</li><li>10 feet</li><li>12 feet</li><li>15 feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzle 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>Since a square has four equal sides, the perimeter is 4 times the length of one side. Therefore, 40 feet ÷ 4 sides = 10 feet. The length of one side of the square garden is <strong>10 feet</strong>.</p><h3>Amazing Work! 🌟</h3><p>The length of one side of the garden is <strong>10 feet</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a square is 4 times the length of one side."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Puzzle 🔺</h2><p>A square garden has a perimeter of 60 feet. What is the length of one side of the garden?</p><ol type=\"A\"><li>12 feet</li><li>15 feet</li><li>18 feet</li><li>20 feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzle 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>Since a square has four equal sides, the perimeter is 4 times the length of one side. Therefore, 60 feet ÷ 4 sides = 15 feet. The length of one side of the square garden is <strong>15 feet</strong>.</p><h3>Amazing Work! 🌟</h3><p>The length of one side of the garden is <strong>15 feet</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a square is 4 times the length of one side."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Puzzle 🔺</h2><p>A square garden has a perimeter of 50 feet. What is the length of one side of the garden?</p><ol type=\"A\"><li>10 feet</li><li>12.5 feet</li><li>15 feet</li><li>20 feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzle 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>Since a square has four equal sides, the perimeter is 4 times the length of one side. Therefore, 50 feet ÷ 4 sides = 12.5 feet. The length of one side of the square garden is <strong>12.5 feet</strong>.</p><h3>Amazing Work! 🌟</h3><p>The length of one side of the garden is <strong>12.5 feet</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "7",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a square is 4 times the length of one side."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Area Adventure 🔷</h2><p>A circular swimming pool has a radius of 7 meters. What is the area of the pool?</p><ol type=\"A\"><li>14 square meters</li><li>22 square meters</li><li>44 square meters</li><li>153.86 square meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Adventure 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of a circle, use the formula: Area = π * radius^2. Substituting the values, Area = 3.14 * 7^2 = 153.86 square meters. Therefore, the area of the pool is <strong>154 square meters</strong>.</p><h3>Excellent Job! 🌟</h3><p>The area of the pool is <strong>154 square meters</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "difficulty_level": "7",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area of a circle = π * radius^2"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Area Adventure 🔷</h2><p>A circular swimming pool has a radius of 10 meters. What is the area of the pool?</p><ol type=\"A\"><li>100 square meters</li><li>150 square meters</li><li>314 square meters</li><li>250 square meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Adventure 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of a circle, use the formula: Area = π * radius^2. Substituting the values, Area = 3.14 * 10^2 = 314 square meters. Therefore, the area of the pool is <strong>314 square meters</strong>.</p><h3>Excellent Job! 🌟</h3><p>The area of the pool is <strong>314 square meters</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "8",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area of a circle = π * radius^2"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Area Adventure 🔷</h2><p>A circular swimming pool has a radius of 5 meters. What is the area of the pool?</p><ol type=\"A\"><li>25 square meters</li><li>50 square meters</li><li>75 square meters</li><li>78.5 square meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Adventure 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of a circle, use the formula: Area = π * radius^2. Substituting the values, Area = 3.14 * 5^2 = 78.5 square meters. Therefore, the area of the pool is <strong>78.5 square meters</strong>.</p><h3>Excellent Job! 🌟</h3><p>The area of the pool is <strong>78.5 square meters</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area of a circle = π * radius^2"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Problem 🔺</h2><p>A rectangular field has a length of 18 meters and a width of 10 meters. What is the perimeter of the field?</p><ol type=\"A\"><li>36 meters</li><li>46 meters</li><li>56 meters</li><li>64 meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Problem 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>To find the perimeter of a rectangle, use the formula: Perimeter = 2 * (length + width). Substituting the values, Perimeter = 2 * (18 + 10) = 2 * 28 = 56 meters. Therefore, the perimeter of the field is <strong>56 meters</strong>.</p><h3>Well Done! 🌟</h3><p>The perimeter of the field is <strong>56 meters</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a rectangle = 2 * (length + width)"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Problem 🔺</h2><p>A rectangular field has a length of 20 meters and a width of 12 meters. What is the perimeter of the field?</p><ol type=\"A\"><li>64 meters</li><li>52 meters</li><li>60 meters</li><li>72 meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Problem 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>To find the perimeter of a rectangle, use the formula: Perimeter = 2 * (length + width). Substituting the values, Perimeter = 2 * (20 + 12) = 2 * 32 = 64 meters. Therefore, the perimeter of the field is <strong>64 meters</strong>.</p><h3>Well Done! 🌟</h3><p>The perimeter of the field is <strong>64 meters</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a rectangle = 2 * (length + width)"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Problem 🔺</h2><p>A rectangular field has a length of 25 meters and a width of 15 meters. What is the perimeter of the field?</p><ol type=\"A\"><li>70 meters</li><li>80 meters</li><li>90 meters</li><li>100 meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Problem 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>To find the perimeter of a rectangle, use the formula: Perimeter = 2 * (length + width). Substituting the values, Perimeter = 2 * (25 + 15) = 2 * 40 = 80 meters. Therefore, the perimeter of the field is <strong>80 meters</strong>.</p><h3>Well Done! 🌟</h3><p>The perimeter of the field is <strong>80 meters</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a rectangle = 2 * (length + width)"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔸 Perimeter Conundrum 🔹</h2><p>A square has a perimeter of 32 cm. What is the length of one side of the square?</p><ol type='A'><li>4 cm</li><li>6 cm</li><li>8 cm</li><li>12 cm</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Conundrum 🔻</h2><div class='example'><h3>Solution:</h3><p>The perimeter of a square is given by 4 times the length of one side. In this case, 4 times the length of one side equals 32 cm, so the length of one side is 32 cm / 4 = 8 cm.</p><h3>Square Secret Revealed! 🌟</h3><p>The length of one side of the square is <strong>8 cm</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "3",
+    "hint": "Perimeter of a square = 4 * side length",
+    "suggested_image": "A square with labeled side length."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔹 Perimeter Mystery 🔹</h2><p>A swimming pool is in the shape of a square with a perimeter of 40 meters. What is the length of one side of the pool?</p><ol type='A'><li>8 meters</li><li>10 meters</li><li>12 meters</li><li>16 meters</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Mystery 🔻</h2><div class='example'><h3>Solution:</h3><p>The perimeter of a square is given by 4 times the length of one side. In this case, 4 times the length of one side equals 40 meters, so the length of one side is 40 meters / 4 = 10 meters.</p><h3>Pool Perimeter Unveiled! 🌟</h3><p>The length of one side of the pool is <strong>10 meters</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "5",
+    "hint": "Perimeter of a square = 4 * side length",
+    "suggested_image": "A square swimming pool with labeled side length."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Tricky Area Challenge 🔺</h2><p>A circular garden has a radius of 5 meters. What is the area of the garden? (Use π = 3.14)</p><ol type='A'><li>15.7 sq. meters</li><li>31.4 sq. meters</li><li>47.1 sq. meters</li><li>62.8 sq. meters</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Tricky Area Challenge 🔻</h2><div class='example'><h3>Solution:</h3><p>To find the area of a circle, use the formula: Area = π * radius^2. Substituting the given values, we get Area = 3.14 * 5^2 = 3.14 * 25 = 78.5 sq. meters.</p><h3>Circular Conundrum Cracked! 🌟</h3><p>The area of the garden is <strong>78.5 sq. meters</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "difficulty_level": "6",
+    "hint": "Area of a circle = π * radius^2",
+    "suggested_image": "A circular garden with labeled radius."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔹 Perimeter Twist 🔹</h2><p>An irregular polygon has sides of lengths 7 cm, 9 cm, 12 cm, and 14 cm. What is the perimeter of the polygon?</p><ol type='A'><li>42 cm</li><li>44 cm</li><li>52 cm</li><li>62 cm</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Twist 🔻</h2><div class='example'><h3>Solution:</h3><p>To find the perimeter of the polygon, add up the lengths of all the sides. In this case, the perimeter is 7 cm + 9 cm + 12 cm + 14 cm = 42 cm.</p><h3>Polygon Perimeter Revealed! 🌟</h3><p>The perimeter of the polygon is <strong>42 cm</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "7",
+    "hint": "Perimeter of a polygon = sum of all side lengths",
+    "suggested_image": "An irregular polygon with labeled side lengths."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Area Puzzle 🔺</h2><p>A triangular garden has a base of 10 meters and a height of 8 meters. What is the area of the garden?</p><ol type='A'><li>20 sq. meters</li><li>40 sq. meters</li><li>45 sq. meters</li><li>48 sq. meters</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Puzzle 🔻</h2><div class='example'><h3>Solution:</h3><p>To find the area of a triangle, use the formula: Area = 0.5 * base * height. Substituting the given values, we get Area = 0.5 * 10 * 8 = 40 sq. meters.</p><h3>Garden Geometry Unveiled! 🌟</h3><p>The area of the garden is <strong>40 sq. meters</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "8",
+    "hint": "Area of a triangle = 0.5 * base * height",
+    "suggested_image": "A triangular garden with labeled base and height."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔸 Perimeter Riddle 🔹</h2><p>A hexagon has sides of length 6 cm each. What is the perimeter of the hexagon?</p><ol type='A'><li>24 cm</li><li>30 cm</li><li>36 cm</li><li>42 cm</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Riddle 🔻</h2><div class='example'><h3>Solution:</h3><p>To find the perimeter of a hexagon, simply add up the lengths of all its sides. In this case, the perimeter is 6 cm * 6 = 36 cm.</p><h3>Hexagon Hurdle Overcome! 🌟</h3><p>The perimeter of the hexagon is <strong>36 cm</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "9",
+    "hint": "Perimeter of a polygon = sum of all side lengths",
+    "suggested_image": "A hexagon with labeled side lengths."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔺 Challenging Area Task 🔺</h2><p>A semi-circle has a diameter of 14 meters. What is the area of the semi-circle? (Use π = 3.14)</p><ol type='A'><li>38.5 sq. meters</li><li>76.93 sq. meters</li><li>107.8 sq. meters</li><li>153.86 sq. meters</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Challenging Area Task 🔻</h2><div class='example'><h3>Solution:</h3><p>To find the area of a semi-circle, use the formula: Area = 0.5 * π * radius^2. Substituting the given values, we get Area = 0.5 * 3.14 * (14/2)^2 = 76.93 sq. meters.</p><h3>Semi-circle Success! 🌟</h3><p>The area of the semi-circle is <strong>76.93 sq. meters</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "10",
+    "hint": "Area of a semi-circle = 0.5 * π * radius^2",
+    "suggested_image": "A semi-circle with labeled diameter and radius."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🌟 Area and Perimeter Challenge 🌟</h2><p>If a rectangular room has a length of 8 feet and a width of 5 feet, what is the area of the room?</p><ol type='A'><li>13 sq. ft</li><li>40 sq. ft</li><li>25 sq. ft</li><li>48 sq. ft</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area and Perimeter Challenge 🌟</h2><div class='example'><h3>Solution:</h3><p>To find the area of a rectangle, multiply the length by the width. In this case, 8 ft * 5 ft = 40 sq. ft. Therefore, the area of the room is <strong>40 sq. ft</strong>.</p><h3>Great job! 🎉</h3></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "2",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Remember, area of a rectangle = length * width."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Perimeter Puzzle 🔷</h2><p>If the perimeter of a square garden is 24 feet, what is the length of each side?</p><ol type='A'><li>4 ft</li><li>6 ft</li><li>8 ft</li><li>12 ft</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Puzzle 🔷</h2><div class='example'><h3>Solution:</h3><p>Since a square has all sides equal, divide the perimeter by 4 to find the length of each side. 24 ft ÷ 4 = 6 ft. Therefore, each side of the square garden is <strong>6 ft</strong>.</p><h3>Well done! 🌟</h3></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "3",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "The perimeter of a square is the sum of all its sides."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🌻 Garden Planning 🌻</h2><p>If a rectangular garden has a length of 10 meters and a perimeter of 28 meters, what is the width of the garden?</p><ol type='A'><li>9 m</li><li>4 m</li><li>8 m</li><li>14 m</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Garden Planning 🌻</h2><div class='example'><h3>Solution:</h3><p>Since the perimeter of a rectangle is the sum of all its sides, and 2 * (length + width) = perimeter, we can solve for the width. In this case, 2 * (10 m + width) = 28 m. By solving, we find the width to be 4 m. Therefore, the width of the garden is <strong>4 m</strong>.</p><h3>Fantastic! 🌺</h3></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "4",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Use the formula for the perimeter of a rectangle to find the missing side."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔶 Room Renovation 🔶</h2><p>If a square room has a perimeter of 36 feet, what is the total area of the room?</p><ol type='A'><li>81 sq. ft</li><li>144 sq. ft</li><li>36 sq. ft</li><li>64 sq. ft</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Room Renovation 🔶</h2><div class='example'><h3>Solution:</h3><p>Since a square has all sides equal, divide the perimeter by 4 to find the length of each side. In this case, 36 ft ÷ 4 = 9 ft. To find the area of a square, square the length of one side. Therefore, the total area of the room is 9 ft * 9 ft = <strong>81 sq. ft</strong>.</p><h3>Amazing work! 🎨</h3></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "5",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Remember, the perimeter of a square is 4 times the length of one side."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🌼 Flower Bed 🌼</h2><p>If a flower bed is in the shape of a rectangle with a length of 6 meters and an area of 30 square meters, what is the width of the flower bed?</p><ol type='A'><li>5 m</li><li>10 m</li><li>3 m</li><li>7 m</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Flower Bed 🌼</h2><div class='example'><h3>Solution:</h3><p>To find the width of the flower bed, divide the area by the length. In this case, 30 sq. m ÷ 6 m = 5 m. Therefore, the width of the flower bed is <strong>5 m</strong>.</p><h3>Brilliant! 🌺</h3></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "4",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Area of a rectangle = length * width."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🌟 Area or Perimeter? 🌟</h2><p>If a square has an area of 49 square units, what is its perimeter?</p><ol type='A'><li>7 units</li><li>14 units</li><li>21 units</li><li>28 units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area or Perimeter? 🌟</h2><div class='example'><h3>Solution:</h3><p>To find the perimeter of a square, take the square root of the area and multiply by 4. In this case, √49 = 7 units. Therefore, the perimeter of the square is 7 units * 4 = <strong>28 units</strong>.</p><h3>Well done! 🌟</h3></div></div>",
+    "correct_answer": "D",
+    "difficulty_level": "5",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Remember, the perimeter of a square is 4 times the length of one side."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Perimeter Problem 🔷</h2><p>If the perimeter of a rectangular field is 42 meters and the length is 12 meters, what is the width of the field?</p><ol type='A'><li>3 m</li><li>6 m</li><li>9 m</li><li>15 m</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Problem 🔷</h2><div class='example'><h3>Solution:</h3><p>Since the perimeter of a rectangle is the sum of all its sides, and 2 * (length + width) = perimeter, we can solve for the width. In this case, 2 * (12 m + width) = 42 m. By solving, we find the width to be 9 m. Therefore, the width of the field is <strong>9 m</strong>.</p><h3>Excellent job! 🌟</h3></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "6",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Use the formula for the perimeter of a rectangle to find the missing side."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🌻 Garden Makeover 🌻</h2><p>If a square garden has an area of 64 square feet, what is the perimeter of the garden?</p><ol type='A'><li>16 ft</li><li>24 ft</li><li>32 ft</li><li>48 ft</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Garden Makeover 🌻</h2><div class='example'><h3>Solution:</h3><p>To find the perimeter of a square, take the square root of the area and multiply by 4. In this case, √64 = 8 ft. Therefore, the perimeter of the garden is 8 ft * 4 = <strong>32 ft</strong>.</p><h3>Awesome work! 🌺</h3></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "7",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Remember, the perimeter of a square is 4 times the length of one side."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔶 Room Redesign 🔶</h2><p>If a rectangular room has a length of 15 feet and a perimeter of 70 feet, what is the width of the room?</p><ol type='A'><li>10 ft</li><li>20 ft</li><li>25 ft</li><li>30 ft</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Room Redesign 🔶</h2><div class='example'><h3>Solution:</h3><p>Using the formula for the perimeter of a rectangle, 2 * (length + width) = 70 ft. Substituting the given values, we find the width to be 20 ft. Therefore, the width of the room is <strong>20 ft</strong>.</p><h3>Impressive! 🌟</h3></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "8",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Use the formula for the perimeter of a rectangle to find the missing side."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🌟 Area Explorer 🌟</h2><p>If the area of a square is 100 square units, what is the perimeter of the square?</p><ol type='A'><li>20 units</li><li>40 units</li><li>50 units</li><li>100 units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Explorer 🌟</h2><div class='example'><h3>Solution:</h3><p>To find the perimeter of a square, take the square root of the area and multiply by 4. In this case, √100 = 10 units. Therefore, the perimeter of the square is 10 units * 4 = <strong>40 units</strong>.</p><h3>Superb! 🎉</h3></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "9",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Remember, the perimeter of a square is 4 times the length of one side."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🌼 Field Dimensions 🌼</h2><p>If a rectangular field has a length of 18 meters and an area of 144 square meters, what is the width of the field?</p><ol type='A'><li>6 m</li><li>8 m</li><li>12 m</li><li>16 m</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Field Dimensions 🌼</h2><div class='example'><h3>Solution:</h3><p>To find the width of the field, divide the area by the length. In this case, 144 sq. m ÷ 18 m = 8 m. Therefore, the width of the field is <strong>8 m</strong>.</p><h3>Outstanding! 🌺</h3></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "7",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Area of a rectangle = length * width."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Perimeter Precision 🔷</h2><p>If the perimeter of a square garden is 60 feet, what is the total area of the garden?</p><ol type='A'><li>225 sq. ft</li><li>144 sq. ft</li><li>100 sq. ft</li><li>36 sq. ft</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Precision 🔷</h2><div class='example'><h3>Solution:</h3><p>Since a square has all sides equal, divide the perimeter by 4 to find the length of each side. In this case, 60 ft ÷ 4 = 15 ft. To find the area of a square, square the length of one side. Therefore, the total area of the garden is 15 ft * 15 ft = <strong>225 sq. ft</strong>.</p><h3>Marvelous! 🌟</h3></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "8",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Remember, the perimeter of a square is 4 times the length of one side."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🌻 Playground Area 🌻</h2><p>If a playground is in the shape of a square with an area of 169 square units, what is the perimeter of the playground?</p><ol type='A'><li>13 units</li><li>26 units</li><li>39 units</li><li>52 units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Playground Area 🌻</h2><div class='example'><h3>Solution:</h3><p>To find the perimeter of a square, take the square root of the area and multiply by 4. In this case, √169 = 13 units. Therefore, the perimeter of the playground is 13 units * 4 = <strong>52 units</strong>.</p><h3>Excellent work! 🎉</h3></div></div>",
+    "correct_answer": "D",
+    "difficulty_level": "9",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Remember, the perimeter of a square is 4 times the length of one side."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔶 Room Reconstruction 🔶</h2><p>If a rectangular room has a length of 20 feet and a perimeter of 100 feet, what is the width of the room?</p><ol type='A'><li>40 ft</li><li>30 ft</li><li>25 ft</li><li>10 ft</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Room Reconstruction 🔶</h2><div class='example'><h3>Solution:</h3><p>Using the formula for the perimeter of a rectangle, 2 * (length + width) = 100 ft. Substituting the given values, we find the width to be 30 ft. Therefore, the width of the room is <strong>30 ft</strong>.</p><h3>Impressive work! 🌟</h3></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "10",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Use the formula for the perimeter of a rectangle to find the missing side."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>➕ Area Addition Challenge ➕</h2><p>A rectangular garden has a length of 12 feet and a width of 8 feet. If another rectangular garden has a length of 10 feet and a width of 6 feet, what is the total area of both gardens combined?</p><ol type=\"A\"><li>156 sq. ft</li><li>100 sq. ft</li><li>124 sq. ft</li><li>96 sq. ft</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Addition Challenge ➕</h2><div class=\"example\"><h3>Solution:</h3><p>The area of the first garden is 12 * 8 = 96 sq. ft. The area of the second garden is 10 * 6 = 60 sq. ft. The total area is 96 + 60 = 156 sq. ft.</p><h3>Awesome Area Calculation! 🌟</h3><p>The total area of both gardens combined is <strong>156 sq. ft</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "96, 60",
+    "difficulty_level": "2",
+    "tags": "Area and Perimeter",
+    "grade_level": "4",
+    "hint": "Calculate the area of each garden separately and then add them together.",
+    "suggested_image": "Two rectangular gardens"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>➖ Perimeter Subtraction Challenge ➖</h2><p>A rectangular swimming pool has a length of 20 meters and a width of 15 meters. If a square patio adjacent to the pool has a perimeter of 48 meters, what is the difference in perimeter between the pool and the patio?</p><ol type=\"A\"><li>2 meters</li><li>4 meters</li><li>6 meters</li><li>22 meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Subtraction Challenge ➖</h2><div class=\"example\"><h3>Solution:</h3><p>The perimeter of the pool is 2 * (20 + 15) = 70 meters. The perimeter of the patio is 48 meters. The difference is 70 - 48 = 22 meters.</p><h3>Perfect Perimeter Problem-Solving! 🌟</h3><p>The difference in perimeter between the pool and the patio is <strong>22 meters</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "numeric_values": "70, 48, 12",
+    "difficulty_level": "4",
+    "tags": "Area and Perimeter",
+    "grade_level": "4",
+    "hint": "Calculate the perimeter of the pool and the patio separately, then find the difference.",
+    "suggested_image": "Rectangular swimming pool and square patio"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Triangle Area Mystery 🔺</h2><p>A triangle has a base of 6 inches and a height of 8 inches. What is the area of the triangle in square inches?</p><ol type=\"A\"><li>20 sq. in</li><li>24 sq. in</li><li>30 sq. in</li><li>36 sq. in</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Triangle Area Mystery 🔺</h2><div> class=\"example\"><h3>Solution:</h3><p>The area of a triangle is calculated using the formula: 0.5 * base * height. Substituting the values, we get 0.5 * 6 * 8 = 24 sq. in.</p><h3>Terrific Triangle Area! 🌟</h3><p>The area of the triangle is <strong>24 sq. in</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "6, 8",
+    "difficulty_level": "3",
+    "tags": "Area and Perimeter",
+    "grade_level": "4",
+    "hint": "Use the formula 0.5 * base * height to find the area of a triangle.",
+    "suggested_image": "Triangle with base and height labeled"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Area Challenge 🔷</h2><p>What is the area of a rectangle with a length of 8 feet and a width of 12 inches?</p><ol type=\"A\"><li>60 square feet</li><li>8 square feet</li><li>96 square feet</li><li>100 square feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Challenge 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>First, convert the width to feet. Since 1 foot is equal to 12 inches, the width of 12 inches is equal to 1 foot. Now, calculate the area by multiplying length and width: 8 feet * 1 foot = 8 square feet.</p><h3>Area Achievement! 🌟</h3><p>The area of the rectangle is <strong>8 square feet</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "5",
+    "hint": "Remember to convert the units to the same measurement before calculating the area.",
+    "suggested_image": "A rectangle with length labeled as 8 feet and width labeled as 12 inches."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Puzzler 🔺</h2><p>What is the perimeter of a square with a side length of 5 yards?</p><ol type=\"A\"><li>15 yards</li><li>20 yards</li><li>25 yards</li><li>30 yards</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzler 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>Since all sides of a square are equal, the perimeter is the sum of all sides. Therefore, the perimeter of a square with a side length of 5 yards is 5 yards * 4 = 20 yards.</p><h3>Perimeter Perfection! 🌟</h3><p>The perimeter of the square is <strong>20 yards</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "4",
+    "hint": "Perimeter is the sum of all sides of a polygon.",
+    "suggested_image": "A square with each side labeled as 5 yards."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🟩 Area Adventure 🟩</h2><p>If a rectangle has a length of 10 feet and a width of 6 feet, what is the area in square inches?</p><ol type=\"A\"><li>720 square inches</li><li>60 square inches</li><li>360 square inches</li><li>100 square inches</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Adventure 🟩</h2><div class=\"example\"><h3>Solution:</h3><p>First, convert the dimensions to inches. 1 foot is equal to 12 inches, so the area calculation becomes: 10 feet * 12 inches/foot * 6 feet * 12 inches/foot = 720 square inches.</p><h3>Area Awe! 🌟</h3><p>The area of the rectangle in square inches is <strong>720 square inches</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "6",
+    "hint": "Remember to convert all measurements to the same unit before calculating the area.",
+    "suggested_image": "A rectangle with length labeled as 10 feet and width labeled as 6 feet."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Perimeter Problem 🔵</h2><p>If a square has a perimeter of 32 inches, what is the length of each side?</p><ol type=\"A\"><li>8 inches</li><li>16 inches</li><li>4 inches</li><li>12 inches</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Problem 🔷</h2><div class=\"example\"><h3>Solution:</h3><p>Since all sides of a square are equal, the perimeter is the sum of all sides. Divide the perimeter by 4 (number of sides) to find the length of each side: 32 inches / 4 = 8 inches.</p><h3>Perimeter Proficiency! 🌟</h3><p>The length of each side of the square is <strong>8 inches</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "7",
+    "hint": "Perimeter is the sum of all sides of a polygon.",
+    "suggested_image": "A square with a perimeter labeled as 32 inches."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🟦 Tricky Triangle 🟦</h2><p>If a triangle has a base of 9 feet and a height of 12 inches, what is the area in square feet?</p><ol type=\"A\"><li>4.5 square feet</li><li>6 square feet</li><li>3.5 square feet</li><li>9 square feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Tricky Triangle 🟦</h2><div class=\"example\"><h3>Solution:</h3><p>First, convert the height to feet. Since 1 foot is equal to 12 inches, the height of 12 inches is equal to 1 foot. Now, calculate the area by multiplying base and height and dividing by 2: 9 feet * 1 foot * 1/2 = 4.5 square feet.</p><h3>Triangle Triumph! 🌟</h3><p>The area of the triangle in square feet is <strong>4.5 square feet</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "8",
+    "hint": "Remember to convert all measurements to the same unit before calculating the area.",
+    "suggested_image": "A triangle with base labeled as 9 feet and height labeled as 12 inches."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Triangular Challenge 🔺</h2><p>What is the perimeter of a triangle with sides of length 7 cm, 9 cm, and 12 cm?</p><ol type=\"A\"><li>26 cm</li><li>28 cm</li><li>30 cm</li><li>32 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Triangular Challenge 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>To find the perimeter of a triangle, you need to add the lengths of all three sides: 7 cm + 9 cm + 12 cm = 28 cm.</p><h3>Triangle Triumph! 🌟</h3><p>The perimeter of the triangle is <strong>28 cm</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "7, 9, 12",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "To find the perimeter of a triangle, add the lengths of all three sides.",
+    "suggested_image": "Triangle with side lengths labeled."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>◼️ Perimeter Puzzle ◼️</h2><p>If the perimeter of a square is 36 cm, what is the length of each side?</p><ol type=\"A\"><li>6 cm</li><li>8 cm</li><li>9 cm</li><li>12 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzle ◾</h2><div class=\"example\"><h3>Solution:</h3><p>The perimeter of a square is calculated by multiplying the length of one side by 4. So, if the perimeter is 36 cm, each side would be 36 cm / 4 = 9 cm.</p><h3>Square Success! 🌟</h3><p>The length of each side is <strong>9 cm</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "numeric_values": "36",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "The perimeter of a square is calculated by multiplying the length of one side by 4.",
+    "suggested_image": "Square with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Triangular Twist 🔺</h2><p>If the perimeter of an equilateral triangle is 36 cm, what is the length of each side?</p><ol type=\"A\"><li>10 cm</li><li>12 cm</li><li>9 cm</li><li>8 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Triangular Twist 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>Since an equilateral triangle has all sides equal, divide the perimeter by 3 to get the length of each side. Therefore, each side is 36 cm / 3 = 12 cm.</p><h3>Triangle Triumph! 🌟</h3><p>The length of each side is <strong>12 cm</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "36",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "For an equilateral triangle, all sides are equal.",
+    "suggested_image": "Equilateral triangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Perplex 🔺</h2><p>An isosceles triangle has two sides of length 5 cm each and a base of 8 cm. What is the perimeter of the triangle?</p><ol type=\"A\"><li>16 cm</li><li>18 cm</li><li>20 cm</li><li>22 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Perplex 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>In an isosceles triangle, two sides are equal. So, the perimeter is calculated by adding the lengths of all three sides: 5 cm + 5 cm + 8 cm = 18 cm.</p><h3>Triangle Triumph! 🌟</h3><p>The perimeter of the triangle is <strong>18 cm</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "5, 5, 8",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "In an isosceles triangle, two sides are equal.",
+    "suggested_image": "Isosceles triangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>◼️ Tricky Rectangle ◼️</h2><p>If the length of a rectangle is 10 cm and the width is 6 cm, what is the perimeter of the rectangle?</p> <img src=\"Images/Question 958.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"><ol type=\"A\"><li>24 cm</li><li>26 cm</li><li>28 cm</li><li>32 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Tricky Rectangle ◾</h2><div class=\"example\"><h3>Solution:</h3><p>The perimeter of a rectangle is calculated by adding all four sides: 10 cm + 10 cm + 6 cm + 6 cm = 32 cm.</p><h3>Rectangle Riddle Solved! 🌟</h3><p>The perimeter of the rectangle is <strong>32 cm</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "numeric_values": "10, 6",
+    "difficulty_level": "7",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "The perimeter of a rectangle is calculated by adding all four sides.",
+    "suggested_image": "Rectangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Area Adventure 🔺</h2><p>What is the area of a triangle with a base of 5 cm and a height of 8 cm?</p> <img src=\"Images/Question 969.png\" alt=\"Image of the triangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>20 sq cm</li><li>30 sq cm</li><li>35 sq cm</li><li>40 sq cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Adventure 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>The area of a triangle is calculated using the formula: 0.5 * base * height. Substituting the values, we get: 0.5 * 5 cm * 8 cm = 20 sq cm.</p><h3>Triangle Triumph! 🌟</h3><p>The area of the triangle is <strong>20 sq cm</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "5, 8",
+    "difficulty_level": "8",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "The area of a triangle is calculated using the formula: 0.5 * base * height.",
+    "suggested_image": "Triangle with labeled base and height."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>◼️ Area Amazement ◼️</h2><p>If the length of a rectangle is 12 cm and the width is 7 cm, what is the area of the rectangle?</p> <img src=\"Images/Question 980.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>72 sq cm</li><li>84 sq cm</li><li>90 sq cm</li><li>96 sq cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Amazement ◾</h2><div class=\"example\"><h3>Solution:</h3><p>The area of a rectangle is calculated by multiplying the length and width: 12 cm * 7 cm = 84 sq cm.</p><h3>Rectangle Riddle Solved! 🌟</h3><p>The area of the rectangle is <strong>84 sq cm</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "12, 7",
+    "difficulty_level": "9",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "The area of a rectangle is calculated by multiplying the length and width.",
+    "suggested_image": "Rectangle with labeled length and width."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Puzzle 🔺</h2><p>The perimeter of a right triangle is 24 cm. If the other two sides are of lengths 7 cm and 10 cm, what is the length of the hypotenuse?</p> <img src=\"Images/Question 991.png\" alt=\"Image of the triangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>13 cm</li><li>15 cm</li><li>17 cm</li><li>19 cm</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzle 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>In a right triangle, the sum of the squares of the two shorter sides is equal to the square of the hypotenuse. Using the Pythagorean theorem, 7^2 + 10^2 = 49 + 100 = 149. The square root of 149 is approximately 12.2, so the length of the hypotenuse is around 12.2 cm.</p><h3>Triangle Triumph! 🌟</h3><p>The length of the hypotenuse is approximately <strong>13 cm</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "24, 7, 10",
+    "difficulty_level": "10",
+    "tags": "Geometry, Pythagorean Theorem",
+    "grade_level": "4",
+    "hint": "Use the Pythagorean theorem to find the length of the hypotenuse in a right triangle.",
+    "suggested_image": "Right triangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Rectangle Riddle 🔷</h2><p>Ahaan has a rectangular garden with a length of 8 meters and a width of 5 meters. What is the area of Ahaan's garden?</p> <img src=\"Images/Question 1002.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>35 square meters</li><li>40 square meters</li><li>45 square meters</li><li>48 square meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Rectangle Riddle 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of a rectangle, you multiply the length by the width. Area = 8 * 5 = 40 square meters.</p><h3>Rectangular Revelation! 🌟</h3><p>The area of Ahaan's garden is <strong>40 square meters</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "8, 5",
+    "difficulty_level": "2",
+    "topic": "Find the area and perimeter of rectangles, squares, triangles, and circles.",
+    "grade": "4",
+    "hint": "Area of a rectangle is length * width",
+    "suggested_image": "A rectangular garden with length labeled as 8 meters and width labeled as 5 meters."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Triangular Teaser 🔺</h2><p>Ru wants to fence his triangular garden, which has a base of 6 feet and a height of 8 feet. What is the perimeter of Ru's garden?</p> <img src=\"Images/Question 1013.png\" alt=\"Image of the triangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>18 feet</li><li>20 feet</li><li>24 feet</li><li>26 feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Triangular Teaser 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>To find the perimeter of a triangle, you add up all the sides. Given the base and height, you can use the Pythagorean theorem to find the hypotenuse. Perimeter = 6 + 8 + hypotenuse. Perimeter = 6 + 8 + 10 = 24 feet.</p><h3>Triangle Triumph! 🌟</h3><p>The perimeter of Ru's garden is <strong>24 feet</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "numeric_values": "6, 8",
+    "difficulty_level": "3",
+    "topic": "Find the area and perimeter of rectangles, squares, triangles, and circles.",
+    "grade": "4",
+    "hint": "Use Pythagorean theorem to find the missing side of the right-angled triangle.",
+    "suggested_image": "A triangular garden with base labeled as 6 feet and height labeled as 8 feet."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔲 Square Challenge 🔲</h2><p>Vish has a square garden with a perimeter of 20 feet. What is the area of Vish's garden?</p> <img src=\"Images/Question 1024.png\" alt=\"Image of the square\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>16 square feet</li><li>25 square feet</li><li>36 square feet</li><li>49 square feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Square Challenge 🔳</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of a square, you square the length of one side. Given the perimeter is 20 feet, each side is 20 / 4 = 5 feet. Area = 5 * 5 = 25 square feet.</p><h3>Square Success! 🌟</h3><p>The area of Vish's garden is <strong>25 square feet</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "20",
+    "difficulty_level": "4",
+    "topic": "Find the area and perimeter of rectangles, squares, triangles, and circles.",
+    "grade": "4",
+    "hint": "Area of a square is side length squared",
+    "suggested_image": "A square garden with perimeter labeled as 20 feet."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Circular Conundrum 🔵</h2><p>Rav has a circular pond with a circumference of 30 meters. What is the area of Rav's pond?</p> <img src=\"Images/Question 1035.png\" alt=\"Image of the Circle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>50.24 square meters</li><li>56.52 square meters</li><li>63.62 square meters</li><li>71.44 square meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Circular Conundrum 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of a circle, you use the formula: Area = π * (radius)^2. Given the circumference is 30 meters, you can find the radius using the formula: radius = circumference / (2 * π). Radius = 30 / (2 * 3.14) ≈ 4.77 meters. Area = 3.14 * (4.77)^2 ≈ 71.44 square meters.</p><h3>Circular Celebration! 🌟</h3><p>The area of Rav's pond is approximately <strong>71.44 square meters</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "numeric_values": "30",
+    "difficulty_level": "5",
+    "topic": "Find the area and perimeter of rectangles, squares, triangles, and circles.",
+    "grade": "4",
+    "hint": "Area of a circle is π * (radius)^2",
+    "suggested_image": "A circular pond with circumference labeled as 30 meters."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Area and Perimeter Challenge 🔶</h2><p>A rectangular field has a length of 12 meters and a perimeter of 40 meters. What is the width of the field?</p> <img src=\"Images/Question 1046.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>8 meters</li><li>10 meters</li><li>14 meters</li><li>16 meters</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area and Perimeter Challenge 🔷</h2><div class='example'><h3>Solution:</h3><p>To find the width of the rectangle, we use the formula for the perimeter: 2(length + width) = 40. Substituting the given length of 12 meters, we get 2(12 + width) = 40. Solving for width, we find width = 8 meters.</p><h3>Rectangle Riddle! 🌟</h3><p>The width of the field is <strong>8 meters</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Use the formula for the perimeter of a rectangle: 2(length + width)"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Area and Perimeter Challenge 🔶</h2><p>A circular swimming pool has a diameter of 14 feet. What is the area of the pool in square feet?</p> <img src=\"Images/Question 1055.png\" alt=\"Image of the Circle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>154 square feet</li><li>77 square feet</li><li>49π square feet</li><li>28 square feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area and Perimeter Challenge 🔷</h2><div class='example'><h3>Solution:</h3><p>To find the area of a circle, we use the formula: Area = π(radius)^2. Since the diameter is given, we first find the radius by dividing the diameter by 2. Radius = 14 / 2 = 7 feet. Substituting into the formula, we get Area = π(7)^2 = 49π square feet.</p><h3>Circle Celebration! 🌟</h3><p>The area of the pool is <strong>49π square feet</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Use the formula for the area of a circle: Area = π(radius)^2"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Area and Perimeter Challenge 🔶</h2><p>A triangle has a base of 8 inches and a height of 10 inches. What is the perimeter of the triangle in inches?</p> <img src=\"Images/Question 1064.png\" alt=\"Image of the triangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>28 inches</li><li>26 inches</li><li>24 inches</li><li>18 + 2√41 inches inches</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area and Perimeter Challenge 🔷</h2><div class='example'><h3>Solution:</h3><p>To find the perimeter of a triangle, we add all three sides. In this case, the base is 8 inches, the height is 10 inches, and the other side can be calculated using the Pythagorean theorem. The perimeter is 8 + 10 + √(8^2 + 10^2) = 8 + 10 + √164 = 8 + 10 + 2√41 inches.</p><h3>Triangle Triumph! 🌟</h3><p>The perimeter of the triangle is <strong>18 + 2√41 inches</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Use the Pythagorean theorem to find the lengths of the other two sides"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔺 Perimeter Puzzle 🔺</h2><p>A square garden has an area of 144 square meters. What is the perimeter of the garden in meters?</p> <img src=\"Images/Question 1073.png\" alt=\"Image of the Square\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>48 meters</li><li>40 meters</li><li>36 meters</li><li>32 meters</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Puzzle 🔺</h2><div class='example'><h3>Solution:</h3><p>Since the area of a square is side^2, we can find the side length by taking the square root of the area. Side length = √144 = 12 meters. The perimeter of a square is 4 times the side length, so the perimeter is 4 x 12 = 48 meters.</p><h3>Square Success! 🌟</h3><p>The perimeter of the garden is <strong>48 meters</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Use the relationship between area and side length of a square"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔺 Perimeter Puzzle 🔺</h2><p>A regular hexagon has a perimeter of 60 centimeters. What is the area of the hexagon in square centimeters?</p> <img src=\"Images/Question 1082.png\" alt=\"Image of the Hexagon\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>150√3 square centimeters</li><li>100√3 square centimeters</li><li>75√3 square centimeters</li><li>50√3 square centimeters</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Puzzle 🔺</h2><div class='example'><h3>Solution:</h3><p>Since a regular hexagon has 6 equal sides, each side length is 60 / 6 = 10 centimeters. The area of a regular hexagon is given by the formula: Area = (3√3 / 2) x side^2. Substituting the side length, we get Area = (3√3 / 2) x 10^2 = 150√3 square centimeters.</p><h3>Hexagon Highlight! 🌟</h3><p>The area of the hexagon is <strong>150√3 square centimeters</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Use the formula for the area of a regular hexagon"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔺 Perimeter Puzzle 🔺</h2><p>A parallelogram has a base of 15 inches and a height of 8 inches. What is the perimeter of the parallelogram in inches?</p> <img src=\"Images/Question 1091.png\" alt=\"Image of the parallelogram\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>46 inches</li><li>38 inches</li><li>30 inches</li><li>22 inches</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Puzzle 🔺</h2><div class='example'><h3>Solution:</h3><p>For a parallelogram, opposite sides are equal in length. The perimeter is twice the sum of the base and height. In this case, the perimeter is 2(15 + 8) = 46 inches.</p><h3>Parallelogram Perfection! 🌟</h3><p>The perimeter of the parallelogram is <strong>46 inches</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "The perimeter of a parallelogram is twice the sum of the base and height"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔶 Area Adventure 🔷</h2><p>An irregular pentagon has sides of lengths 12 cm, 8 cm, 10 cm, 15 cm, and 7 cm. What is the area of the pentagon in square centimeters?</p> <img src=\"Images/Question 1100.png\" alt=\"Image of the irregular pentagon\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>243 square centimeters</li><li>100 square centimeters</li><li>80 square centimeters</li><li>60 square centimeters</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Adventure 🔶</h2><div class='example'><h3>Solution:</h3><p>To find the area of an irregular pentagon, we can split it into triangles and use the formula for the area of a triangle. By splitting the pentagon appropriately, we can calculate the total area to be approx 243 square centimeters.</p><h3>Pentagon Power! 🌟</h3><p>The area of the pentagon is <strong>243 square centimeters</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Split the irregular pentagon into triangles to find the area"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔶 Area Adventure 🔷</h2><p>A trapezoid has a pair of sides of 10 meters, 8 meters, a base of 6 meters, and a top side of 16 meters. What is the perimeter of the trapezoid in meters?</p> <img src=\"Images/Question 1109.png\" alt=\"Image of the trapezoid\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>32 meters</li><li>28 meters</li><li>24 meters</li><li>40 meters</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Adventure 🔶</h2><div class='example'><h3>Solution:</h3><p>The perimeter of a trapezoid is the sum of all its sides. In this case, the perimeter is 10 + 8 + 6 + 16 = 40 meters.</p><h3>Trapezoid Triumph! 🌟</h3><p>The perimeter of the trapezoid is <strong>40 meters</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "The perimeter of a trapezoid is the sum of all its sides"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔶 Area Adventure 🔷</h2><p>A composite figure consists of a rectangle with dimensions 5 cm by 10 cm and a semicircle with a diameter of 6 cm. What is the total area of the composite figure in square centimeters?</p> <img src=\"Images/Question 1118.png\" alt=\"Image of the composite figure\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>75π + 50 square centimeters</li><li>50π + 25 square centimeters</li><li>9/2π + 50 square centimeters</li><li>75π + 25 square centimeters</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Adventure 🔶</h2><div class='example'><h3>Solution:</h3><p>To find the total area of the composite figure, we calculate the area of the rectangle and the semicircle separately, then add them together. The total area is 5 * 10 + 0.5 * (6/2)^2 * π = 50 + 9/2π square centimeters.</p><h3>Composite Conundrum! 🌟</h3><p>The total area of the composite figure is <strong>50 + 25π square centimeters</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Calculate the area of the rectangle and semicircle separately, then add them together"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔶 Rectangle Challenge 🔶</h2><p>A rectangle has a perimeter of 28 units. If one side is 6 units long, what is the length of the other side?</p> <img src=\"Images/Question 1127.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>8 units</li><li>10 units</li><li>12 units</li><li>14 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Rectangle Challenge 🔷</h2><div class=\"example\"><h3>Solution:</h3><p>Let the length of the other side be x units. Since the perimeter of a rectangle is given by 2*(length + width), we have 2*(6 + x) = 28. Solving for x, we get x = 8 units.</p><h3>Rectangle Riddle Solved! 🌟</h3><p>The length of the other side is <strong>8 units</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "6, 8",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a rectangle is 2*(length + width)",
+    "suggested_image": "A rectangle with one side labeled 6 units."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Puzzler 🔺</h2><p>The perimeter of a rectangle is 32 units. If the width is 6 units, what is the length of the rectangle?</p> <img src=\"Images/Question 1138.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>7 units</li><li>10 units</li><li>11 units</li><li>14 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzler 🔺</h2><div class=\"example\"><h3>Solution:</h3><p>Let the length of the rectangle be x units. Given that the perimeter is 32 units and the width is 6 units, we have 2*(x + 6) = 32. Solving for x, we get x = 10 units.</p><h3>Perimeter Problem Solved! 🌟</h3><p>The length of the rectangle is <strong>10 units</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "6, 10",
+    "difficulty_level": "7",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a rectangle is 2*(length + width)",
+    "suggested_image": "A rectangle with width labeled 6 units."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Perimeter Predicament 🔷</h2><p>A rectangle has a perimeter of 40 units. If one side is 12 units long, what is the length of the other side?</p> <img src=\"Images/Question 1149.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>8 units</li><li>10 units</li><li>16 units</li><li>20 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Predicament 🔷</h2><div class=\"example\"><h3>Solution:</h3><p>Let the length of the other side be x units. Since the perimeter of a rectangle is given by 2*(length + width), we have 2*(12 + x) = 40. Solving for x, we get x = 8 units.</p><h3>Perimeter Puzzle Solved! 🌟</h3><p>The length of the other side is <strong>8 units</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "12, 8",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a rectangle is 2*(length + width)",
+    "suggested_image": "A rectangle with one side labeled 12 units."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔶 Missing Measure Mystery 🔶</h2><p>The perimeter of a rectangle is 24 units. If one side is 5 units long, what is the length of the other side?</p> <img src=\"Images/Question 1160.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>7 units</li><li>9 units</li><li>11 units</li><li>13 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Missing Measure Mystery 🔷</h2><div class=\"example\"><h3>Solution:</h3><p>Let the length of the other side be x units. Given that the perimeter is 24 units and one side is 5 units, we have 2*(5 + x) = 24. Solving for x, we get x = 7 units.</p><h3>Measure Mystery Solved! 🌟</h3><p>The length of the other side is <strong>7 units</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "5, 7",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a rectangle is 2*(length + width)",
+    "suggested_image": "A rectangle with one side labeled 5 units."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Puzzle 🔺</h2><p>A rectangle has a perimeter of 36 units. If the width is 8 units, what is the length of the rectangle?</p> <img src=\"Images/Question 1171.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>10 units</li><li>12 units</li><li>14 units</li><li>16 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzle 🔺</h2><div class=\"example\"><h3>Solution:</h3><p>Let the length of the rectangle be x units. Given that the perimeter is 36 units and the width is 8 units, we have 2*(x + 8) = 36. Solving for x, we get x = 10 units.</p><h3>Perimeter Puzzle Solved! 🌟</h3><p>The length of the rectangle is <strong>10 units</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "8, 10",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a rectangle is 2*(length + width)",
+    "suggested_image": "A rectangle with width labeled 8 units."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Area and Perimeter Challenge 🔷</h2><p>A rectangular garden has a length of 12 feet and a width of 8 feet. What is the area of the garden in square feet?</p> <img src=\"Images/Question 1182.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>20 square feet</li><li>80 square feet</li><li>96 square feet</li><li>100 square feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area and Perimeter Challenge 🔷</h2><div class='example'><h3>Solution:</h3><p>To find the area of a rectangle, multiply the length by the width. In this case, 12 feet * 8 feet = 96 square feet. Therefore, the area of the garden is <strong>96 square feet</strong>.</p><h3>Great Job! 🌟</h3><p>The correct answer is <strong>96 square feet</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "numeric_values": "12, 8, 96",
+    "difficulty_level": "2",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember, area of a rectangle = length * width",
+    "suggested_image": "A rectangular garden with dimensions labeled"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔶 Area and Perimeter Puzzle 🔶</h2><p>A square has a perimeter of 28 inches. What is the area of the square in square inches?</p> <img src=\"Images/Question 1193.png\" alt=\"Image of the square\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>49 square inches</li><li>64 square inches</li><li>81 square inches</li><li>100 square inches</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area and Perimeter Puzzle 🔶</h2><div class='example'><h3>Solution:</h3><p>Since a square has four equal sides, divide the perimeter by 4 to find the length of one side. In this case, 28 inches ÷ 4 = 7 inches. To find the area of a square, square the length of one side. So, 7 inches * 7 inches = 49 square inches. Therefore, the area of the square is <strong>49 square inches</strong>.</p><h3>Well Done! 🌟</h3><p>The correct answer is <strong>49 square inches</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "28, 7, 49",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember, a square has four equal sides",
+    "suggested_image": "A square with labeled perimeter"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔸 Area and Perimeter Riddle 🔸</h2><p>A rectangular swimming pool has a perimeter of 40 feet and an area of 140 square feet. What are the dimensions of the pool?</p> <img src=\"Images/Question 1204.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>Length: 10 feet, Width: 30 feet</li><li>Length: 10 feet, Width: 10 feet</li><li>Length: 15 feet, Width: 25 feet</li><li>Length: 12 feet, Width: 28 feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area and Perimeter Riddle 🔸</h2><div class='example'><h3>Solution:</h3><p>Let the length of the pool be 'L' and the width be 'W'. From the given information, we have: 2L + 2W = 40 (perimeter) and L * W = 140 (area). Solving these equations, we get L = 10 feet and W = 10 feet. Therefore, the dimensions of the pool are Length: 10 feet, Width: 10 feet.</p><h3>Impressive! 🌟</h3><p>The correct answer is Length: 10 feet, Width: 10 feet.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "40, 140, 10",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Set up equations using perimeter and area to solve for dimensions",
+    "suggested_image": "A rectangular swimming pool with labeled dimensions"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Area and Perimeter Challenge 🔷</h2><p>A rectangular garden has a length of 12 feet and a width of 8 feet. What is the area of the garden in square feet?</p> <img src=\"Images/Question 1215.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>20 square feet</li><li>80 square feet</li><li>96 square feet</li><li>100 square feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area and Perimeter Challenge 🔷</h2><div class='example'><h3>Solution:</h3><p>To find the area of a rectangle, multiply the length by the width. In this case, 12 feet * 8 feet = 96 square feet. Therefore, the area of the garden is <strong>96 square feet</strong>.</p><h3>Great Job! 🌟</h3><p>The correct answer is <strong>96 square feet</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "numeric_values": "12, 8, 96",
+    "difficulty_level": "2",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember, area of a rectangle = length * width",
+    "suggested_image": "A rectangular garden with dimensions labeled"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔶 Area and Perimeter Puzzle 🔶</h2><p>A square has a perimeter of 28 inches. What is the area of the square in square inches?</p> <img src=\"Images/Question 1226.png\" alt=\"Image of the square\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>49 square inches</li><li>64 square inches</li><li>81 square inches</li><li>100 square inches</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area and Perimeter Puzzle 🔶</h2><div class='example'><h3>Solution:</h3><p>Since a square has four equal sides, divide the perimeter by 4 to find the length of one side. In this case, 28 inches ÷ 4 = 7 inches. To find the area of a square, square the length of one side. So, 7 inches * 7 inches = 49 square inches. Therefore, the area of the square is <strong>49 square inches</strong>.</p><h3>Well Done! 🌟</h3><p>The correct answer is <strong>49 square inches</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "28, 7, 49",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember, a square has four equal sides",
+    "suggested_image": "A square with labeled perimeter"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🌟 Perimeter Puzzle 🌟</h2><p>Neel has a rectangular garden with a length of 12 feet and a width of 8 feet. What is the perimeter of his garden?</p> <img src=\"Images/Question 1237.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>16 feet</li><li>28 feet</li><li>20 feet</li><li>40 feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Puzzle 🧩</h2><div class='example'><h3>Solution:</h3><p>To find the perimeter of a rectangle, add all the sides. So, 2(Length + Width) = 2(12 + 8) = 2(20) = 40 feet.</p><h3>Puzzle Perfected! 🎉</h3><p>The perimeter of Neel's garden is <strong>40 feet</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "difficulty_level": "2",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Remember, perimeter is the sum of all sides of a shape."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Area Adventure 🔷</h2><p>If a square has a side length of 5 units, what is the area of the square?</p> <img src=\"Images/Question 1246.png\" alt=\"Image of the square\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>10 square units</li><li>15 square units</li><li>20 square units</li><li>25 square units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Adventure 🔹</h2><div class='example'><h3>Solution:</h3><p>To find the area of a square, square the length of one side. So, 5 * 5 = 25 square units.</p><h3>Adventure Accomplished! 🌟</h3><p>The area of the square is <strong>25 square units</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "difficulty_level": "3",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Area is calculated by multiplying the length by the width."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔺 Perimeter Predicament 🔺</h2><p>Rav wants to put a fence around his triangular garden. If the sides of the triangle measure 6 feet, 8 feet, and 10 feet, what is the perimeter of the garden?</p> <img src=\"Images/Question 1255.png\" alt=\"Image of the triangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>24 feet</li><li>20 feet</li><li>22 feet</li><li>18 feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Predicament 🔻</h2><div class='example'><h3>Solution:</h3><p>To find the perimeter of a triangle, add all three sides. So, 6 + 8 + 10 = 24 feet.</p><h3>Predicament Prevailed! 🎊</h3><p>The perimeter of Rav's garden is <strong>24 feet</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "4",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Add all the sides of the triangle to find the perimeter."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔵 Area Amazement 🔵</h2><p>If a rectangle has a length of 9 units and a width of 4 units, what is the area of the rectangle?</p> <img src=\"Images/Question 1264.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>13 square units</li><li>33 square units</li><li>36 square units</li><li>40 square units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Amazement 🔹</h2><div class='example'><h3>Solution:</h3><p>To find the area of a rectangle, multiply the length by the width. So, 9 * 4 = 36 square units.</p><h3>Amazement Achieved! 🌠</h3><p>The area of the rectangle is <strong>36 square units</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "5",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Area is calculated by multiplying the length by the width."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🌺 Perimeter Puzzle 🌺</h2><p>If a garden is in the shape of a regular pentagon with each side measuring 5 feet, what is the perimeter of the garden?</p> <img src=\"Images/Question 1273.png\" alt=\"Image of the pentagon\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>20 feet</li><li>25 feet</li><li>30 feet</li><li>35 feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Puzzle 🌼</h2><div class='example'><h3>Solution:</h3><p>Since a regular pentagon has equal sides, the perimeter is calculated by multiplying the side length by the number of sides. So, 5 * 5 = 25 feet.</p><h3>Puzzle Perfected! 🎈</h3><p>The perimeter of the garden is <strong>25 feet</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "6",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "For regular polygons, the perimeter is calculated by multiplying the side length by the number of sides."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Area Adventure 🔷</h2><p>Maya is planting flowers in a triangular garden with a base of 6 feet and a height of 4 feet. What is the area of the garden?</p> <img src=\"Images/Question 1282.png\" alt=\"Image of the triangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>12 square feet</li><li>16 square feet</li><li>14 square feet</li><li>10 square feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Adventure 🔹</h2><div class='example'><h3>Solution:</h3><p>To find the area of a triangle, multiply the base by the height and divide by 2. So, (6 * 4) / 2 = 12 square feet.</p><h3>Adventure Accomplished! 🌟</h3><p>The area of the garden is <strong>12 square feet</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "7",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "For triangles, the area is calculated by multiplying the base by the height and dividing by 2."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔺 Perimeter Predicament 🔺</h2><p>If a trapezoid has parallel sides of 5 units and 9 units, and non-parallel sides of 4 units and 6 units, what is the perimeter of the trapezoid?</p> <img src=\"Images/Question 1291.png\" alt=\"Image of the trapezoid\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>24 units</li><li>26 units</li><li>28 units</li><li>30 units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Predicament 🔻</h2><div class='example'><h3>Solution:</h3><p>To find the perimeter of a trapezoid, add all the sides. So, 5 + 9 + 4 + 6 = 24 units.</p><h3>Predicament Prevailed! 🎊</h3><p>The perimeter of the trapezoid is <strong>24 units</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "8",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Add all the sides of the trapezoid to find the perimeter."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔵 Area Amazement 🔵</h2><p>If a circle has a radius of 7 units, what is the area of the circle?</p> <img src=\"Images/Question 1300.png\" alt=\"Image of the Circle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>14 square units</li><li>22 square units</li><li>44 square units</li><li>153.86 square units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Amazement 🔹</h2><div class='example'><h3>Solution:</h3><p>To find the area of a circle, use the formula A = πr^2. So, A = 3.14 * 7^2 = 3.14 * 49 = 153.86 square units.</p><h3>Amazement Achieved! 🌠</h3><p>The area of the circle is <strong>153.86 square units</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "difficulty_level": "9",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "Remember to square the radius and multiply by π to find the area of a circle."
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🌺 Perimeter Puzzle 🌺</h2><p>If a garden is in the shape of an octagon with each side measuring 6 feet, what is the perimeter of the garden?</p> <img src=\"Images/Question 1309.png\" alt=\"Image of the octagon\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>36 feet</li><li>42 feet</li><li>48 feet</li><li>54 feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Puzzle 🌼</h2><div class='example'><h3>Solution:</h3><p>Since an octagon has 8 equal sides, the perimeter is calculated by multiplying the side length by the number of sides. So, 6 * 8 = 48 feet.</p><h3>Puzzle Perfected! 🎈</h3><p>The perimeter of the garden is <strong>48 feet</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "10",
+    "topic": "Area and Perimeter",
+    "grade": "4",
+    "hint": "For regular polygons, the perimeter is calculated by multiplying the side length by the number of sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Rectangle Challenge 🔷</h2><p>If the perimeter of a rectangle is 28 units and the length is 10 units, what is the width of the rectangle?</p> <img src=\"Images/Question 1318.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>4 units</li><li>8 units</li><li>6 units</li><li>12 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Rectangle Challenge 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>Let the width of the rectangle be x units. Since the perimeter is the sum of all sides, we have: 2(Length) + 2(Width) = Perimeter. Substituting the given values: 2(10) + 2(x) = 28. Simplifying, we get: 20 + 2x = 28. 2x = 8. x = 4.</p><h3>Rectangle Riddle! 🌟</h3><p>The width of the rectangle is <strong>4 units</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "10, 4",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter = 2(Length) + 2(Width)",
+    "suggested_image": "Rectangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Puzzle 🔺</h2><p>The length of a rectangle is 15 meters more than the width. If the perimeter is 90 meters, what is the width of the rectangle?</p> <img src=\"Images/Question 1329.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>15 meters</li><li>20 meters</li><li>25 meters</li><li>30 meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzle 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>Let the width of the rectangle be x meters. Then, the length is x + 15 meters. Given that the perimeter is 90 meters, we have: 2(Length) + 2(Width) = 90. Substituting the expressions: 2(x + 15) + 2(x) = 90. Simplifying, we get: 4x + 30 = 90. 4x = 60. x = 15.</p><h3>Rectangle Revelation! 🌟</h3><p>The width of the rectangle is <strong>15 meters</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "15, 90",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter = 2(Length) + 2(Width)",
+    "suggested_image": "Rectangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area Arena 🔵</h2><p>If the area of a rectangle is 72 square units and the length is 9 units, what is the width of the rectangle?</p> <img src=\"Images/Question 1340.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>8 units</li><li>6 units</li><li>4 units</li><li>12 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Arena 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>Let the width of the rectangle be x units. Since the area is the product of length and width, we have: Length x Width = Area. Substituting the given values: 9x = 72. x = 8 units.</p><h3>Rectangle Revelation! 🌟</h3><p>The width of the rectangle is <strong>8 units</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "9, 72",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area = Length x Width",
+    "suggested_image": "Rectangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔶 Area Adventure 🔶</h2><p>The area of a rectangle is 40 square meters. If the width is 5 meters, what is the length of the rectangle?</p> <img src=\"Images/Question 1351.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>8 meters</li><li>10 meters</li><li>6 meters</li><li>12 meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Adventure 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>Let the length of the rectangle be x meters. Since the area is the product of length and width, we have: Length x Width = Area. Substituting the given values: x * 5 = 40. x = 8.</p><h3>Rectangle Riddle! 🌟</h3><p>The length of the rectangle is <strong>8 meters</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "5, 40",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area = Length x Width",
+    "suggested_image": "Rectangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Predicament 🔺</h2><p>The perimeter of a rectangle is 38 inches. If the length is 12 inches, what is the width of the rectangle?</p> <img src=\"Images/Question 1362.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>7 inches</li><li>8 inches</li><li>9 inches</li><li>10 inches</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Predicament 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>Let the width of the rectangle be x inches. Given that the perimeter is 38 inches, we have: 2(Length) + 2(Width) = 38. Substituting the values: 2(12) + 2(x) = 38. Simplifying, we get: 24 + 2x = 38. 2x = 14. x = 7 inches.</p><h3>Rectangle Riddle! 🌟</h3><p>The width of the rectangle is <strong>7 inches</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "12, 38",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter = 2(Length) + 2(Width)",
+    "suggested_image": "Rectangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area Amazement 🔵</h2><p>The area of a rectangle is 63 square units. If the length is 9 units, what is the width of the rectangle?</p> <img src=\"Images/Question 1373.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>7 units</li><li>6 units</li><li>8 units</li><li>5 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Amazement 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>Let the width of the rectangle be x units. Given that the area is 63 square units, we have: 9x = 63. x = 7.</p><h3>Rectangle Revelation! 🌟</h3><p>The width of the rectangle is <strong>7 units</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "9, 63",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area = Length x Width",
+    "suggested_image": "Rectangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Perimeter Ponder 🔷</h2><p>The perimeter of a rectangle is 46 meters. If the width is 8 meters, what is the length of the rectangle?</p> <img src=\"Images/Question 1384.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>15 meters</li><li>30 meters</li><li>10 meters</li><li>20 meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Ponder 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>Let the length of the rectangle be x meters. Given that the perimeter is 46 meters, we have: 2(Length) + 2(Width) = 46. Substituting the values: 2(x) + 2(8) = 46. Simplifying, we get: 2x + 16 = 46. 2x = 30. x = 15 meters.</p><h3>Rectangle Riddle! 🌟</h3><p>The length of the rectangle is <strong>15 meters</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "8, 46",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter = 2(Length) + 2(Width)",
+    "suggested_image": "Rectangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔶 Area Arithmetic 🔶</h2><p>If the area of a rectangle is 56 square yards and the width is 7 yards, what is the length of the rectangle?</p> <img src=\"Images/Question 1395.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>8 yards</li><li>16 yards</li><li>10 yards</li><li>14 yards</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Arithmetic 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>Let the length of the rectangle be x yards. Given that the area is 56 square yards, we have: 7x = 56. x = 8 yards.</p><h3>Rectangle Revelation! 🌟</h3><p>The length of the rectangle is <strong>8 yards</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "7, 56",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area = Length x Width",
+    "suggested_image": "Rectangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Predicament 🔺</h2><p>The perimeter of a rectangle is 42 centimeters. If the length is 12 centimeters, what is the width of the rectangle?</p> <img src=\"Images/Question 1406.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>9 centimeters</li><li>15 centimeters</li><li>6 centimeters</li><li>18 centimeters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Predicament 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>Let the width of the rectangle be x centimeters. Given that the perimeter is 42 centimeters, we have: 2(Length) + 2(Width) = 42. Substituting the values: 2(12) + 2(x) = 42. Simplifying, we get: 24 + 2x = 42. 2x = 18. x = 9 centimeters.</p><h3>Rectangle Riddle! 🌟</h3><p>The width of the rectangle is <strong>9 centimeters</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "12, 42",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter = 2(Length) + 2(Width)",
+    "suggested_image": "Rectangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area Adventure 🔵</h2><p>The area of a rectangle is 45 square units. If the width is 5 units, what is the length of the rectangle?</p> <img src=\"Images/Question 1417.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>9 units</li><li>10 units</li><li>6 units</li><li>7 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Adventure 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>Let the length of the rectangle be x units. Given that the area is 45 square units, we have: 5x = 45. x = 9 units.</p><h3>Rectangle Revelation! 🌟</h3><p>The length of the rectangle is <strong>9 units</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "5, 45",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area = Length x Width",
+    "suggested_image": "Rectangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Perimeter Puzzle 🔷</h2><p>The perimeter of a rectangle is 36 feet. If the width is 9 feet, what is the length of the rectangle?</p> <img src=\"Images/Question 1428.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>9 feet</li><li>18 feet</li><li>8 feet</li><li>15 feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzle 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>Let the length of the rectangle be x feet. Given that the perimeter is 36 feet, we have: 2(Length) + 2(Width) = 36. Substituting the values: 2(x) + 2(9) = 36. Simplifying, we get: 2x + 18 = 36. 2x = 18. x = 9 feet.</p><h3>Rectangle Riddle! 🌟</h3><p>The length of the rectangle is <strong>9 feet</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "9, 36",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter = 2(Length) + 2(Width)",
+    "suggested_image": "Rectangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔶 Area Arena 🔶</h2><p>If the area of a rectangle is 50 square units and the width is 5 units, what is the length of the rectangle?</p> <img src=\"Images/Question 1439.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>10 units</li><li>8 units</li><li>15 units</li><li>6 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Arena 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>Let the length of the rectangle be x units. Given that the area is 50 square units, we have: 5x = 50. x = 10 units.</p><h3>Rectangle Revelation! 🌟</h3><p>The length of the rectangle is <strong>10 units</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "5, 50",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area = Length x Width",
+    "suggested_image": "Rectangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Perimeter Predicament 🔺</h2><p>The perimeter of a rectangle is 40 centimeters. If the length is 15 centimeters, what is the width of the rectangle?</p> <img src=\"Images/Question 1450.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>5 centimeters</li><li>10 centimeters</li><li>8 centimeters</li><li>12 centimeters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Predicament 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>Let the width of the rectangle be x centimeters. Given that the perimeter is 40 centimeters, we have: 2(Length) + 2(Width) = 40. Substituting the values: 2(15) + 2(x) = 40. Simplifying, we get: 30 + 2x = 40. 2x = 10. x = 5 centimeters.</p><h3>Rectangle Riddle! 🌟</h3><p>The width of the rectangle is <strong>5 centimeters</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "15, 40",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter = 2(Length) + 2(Width)",
+    "suggested_image": "Rectangle with labeled sides."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area and Perimeter Challenge 🔴</h2><p>A rectangular room has dimensions (2x + 4) feet by (3x - 2) feet. Expand the expression and find the area of the room.</p> <img src=\"Images/Question 1461.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>6x + 8 square feet</li><li>6x<sup>2</sup> + 8x - 8 square feet</li><li>5x + 2 square feet</li><li>7x - 6 square feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Challenge 🔴</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of the room, we need to multiply the length by the width. Expanding the expressions, we get: (2x + 4)(3x - 2) = 6x<sup>2</sup> + 8x - 8 square feet. Therefore, the area of the room is 6x<sup>2</sup> + 8x - 8 square feet.</p><h3>Area Accomplished! 🌟</h3><p>The area of the room is <strong>6x<sup>2</sup> + 8x - 8 square feet</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "6",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "To find the area, multiply the length by the width after expanding the expressions.",
+    "suggested_image": "A rectangular room"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area and Perimeter Puzzle 🔴</h2><p>The perimeter of a rectangle is 30 feet. If the length is 6 feet, what is the width of the rectangle?</p> <img src=\"Images/Question 1472.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>9 feet</li><li>12 feet</li><li>5 feet</li><li>7 feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Puzzle 🔴</h2><div class=\"example\"><h3>Solution:</h3><p>Since the perimeter of a rectangle is the sum of all its sides, we have: 2(length + width) = 30. Substituting the given values, we get: 2(6 + width) = 30. Solving, we find that the width is 9 feet.</p><h3>Puzzle Solved! 🌟</h3><p>The width of the rectangle is <strong>9 feet</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "9, 6",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "The perimeter is the sum of all sides of a rectangle.",
+    "suggested_image": "A rectangle with dimensions"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area and Perimeter Riddle 🔴</h2><p>The area of a square field is 144 square meters. What is the perimeter of the field?</p> <img src=\"Images/Question 1483.png\" alt=\"Image of the square\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>48 meters</li><li>36 meters</li><li>24 meters</li><li>60 meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Riddle 🔴</h2><div class=\"example\"><h3>Solution:</h3><p>Since the area of a square is side<sup>2</sup>, we can find the side length by taking the square root of the area. Therefore, side length = √144 = 12 meters. The perimeter of the square is 4 * side length = 4 * 12 = 48 meters.</p><h3>Riddle Revealed! 🌟</h3><p>The perimeter of the field is <strong>48 meters</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "48, 144",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "The area of a square is side<sup>2</sup> and the perimeter is 4 * side length.",
+    "suggested_image": "A square field"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area and Perimeter Mystery 🔴</h2><p>A rectangular garden has a length of 10 feet and a perimeter of 34 feet. What is the width of the garden?</p> <img src=\"Images/Question 1494.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>7 feet</li><li>8 feet</li><li>9 feet</li><li>6 feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Mystery 🔴</h2><div class=\"example\"><h3>Solution:</h3><p>Since the perimeter of a rectangle is 2(length + width), we have: 2(10 + width) = 34. Solving the equation, we find that the width is 7 feet.</p><h3>Mystery Solved! 🌟</h3><p>The width of the garden is <strong>7 feet</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "7, 10, 34",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a rectangle is 2(length + width).",
+    "suggested_image": "A rectangular garden"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area and Perimeter Conundrum 🔴</h2><p>The perimeter of a square is 28 centimeters. What is the area of the square?</p> <img src=\"Images/Question 1505.png\" alt=\"Image of the square\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>49 square centimeters</li><li>64 square centimeters</li><li>81 square centimeters</li><li>36 square centimeters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Conundrum 🔴</h2><div class=\"example\"><h3>Solution:</h3><p>Since the perimeter of a square is 4 * side length, we have: 4 * side length = 28. Therefore, side length = 28 / 4 = 7 centimeters. The area of the square is side<sup>2</sup> = 7<sup>2</sup> = 49 square centimeters.</p><h3>Conundrum Cracked! 🌟</h3><p>The area of the square is <strong>49 square centimeters</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "49, 28",
+    "difficulty_level": "7",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "The perimeter of a square is 4 * side length and the area is side<sup>2</sup>.",
+    "suggested_image": "A square"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area and Perimeter Enigma 🔴</h2><p>A rectangular pool has a length of 12 meters and an area of 96 square meters. What is the width of the pool?</p><img src=\"Images/Question 1516.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"><ol type=\"A\"><li>6 meters</li><li>7 meters</li><li>8 meters</li><li>9 meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Enigma 🔴</h2><div class=\"example\"><h3>Solution:</h3><p>Since the area of a rectangle is length * width, we can find the width by dividing the area by the length. Therefore, width = 96 / 12 = 8 meters.</p><h3>Enigma Unraveled! 🌟</h3><p>The width of the pool is <strong>8 meters</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "numeric_values": "8, 12, 96",
+    "difficulty_level": "8",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "The area of a rectangle is length * width.",
+    "suggested_image": "A rectangular pool"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area and Perimeter Dilemma 🔴</h2><p>The area of a rectangle is 60 square units. If the length is 10 units, what is the perimeter of the rectangle?</p> <img src=\"Images/Question 1527.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>30 units</li><li>32 units</li><li>50 units</li><li>60 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Dilemma 🔴</h2><div class=\"example\"><h3>Solution:</h3><p>Since the area of a rectangle is length * width, we can find the width by dividing the area by the length. Then, we can calculate the perimeter using the formula 2(length + width).</p><p>Given: Area = 60, Length = 10. Width = 60 / 10 = 6 units. Perimeter = 2(10 + 6) = 32 units.</p><h3>Dilemma Deciphered! 🌟</h3><p>The perimeter of the rectangle is <strong>32 units</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "32, 60, 10",
+    "difficulty_level": "9",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "The perimeter of a rectangle is 2(length + width).",
+    "suggested_image": "A rectangle"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area and Perimeter Quest 🔴</h2><p>A square garden has an area of 144 square feet. What is the perimeter of the garden?</p> <img src=\"Images/Question 1538.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>48 feet</li><li>36 feet</li><li>24 feet</li><li>60 feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Quest 🔴</h2><div class=\"example\"><h3>Solution:</h3><p>Since the area of a square is side<sup>2</sup>, we can find the side length by taking the square root of the area. Therefore, side length = √144 = 12 feet. The perimeter of the square is 4 * side length = 4 * 12 = 48 feet.</p><h3>Quest Completed! 🌟</h3><p>The perimeter of the garden is <strong>48 feet</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "48, 144",
+    "difficulty_level": "7",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "The area of a square is side<sup>2</sup> and the perimeter is 4 * side length.",
+    "suggested_image": "A square garden"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area and Perimeter Teaser 🔴</h2><p>A rectangular field has a width of 8 meters and an area of 64 square meters. What is the length of the field?</p> <img src=\"Images/Question 1549.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>6 meters</li><li>7 meters</li><li>8 meters</li><li>9 meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Teaser 🔴</h2><div class=\"example\"><h3>Solution:</h3><p>Since the area of a rectangle is length * width, we can find the length by dividing the area by the width. Therefore, length = 64 / 8 = 8 meters.</p><h3>Teaser Tackled! 🌟</h3><p>The length of the field is <strong>8 meters</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "numeric_values": "8, 64, 8",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "The area of a rectangle is length * width.",
+    "suggested_image": "A rectangular field"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area and Perimeter Brainteaser 🔴</h2><p>The perimeter of a triangle is 24 inches. If one side is 8 inches and the other side is 10 inches, what is the length of the third side?</p> <img src=\"Images/Question 1560.png\" alt=\"Image of the triangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>6 inches</li><li>4 inches</li><li>12 inches</li><li>14 inches</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Brainteaser 🔴</h2><div class=\"example\"><h3>Solution:</h3><p>Since the perimeter of a triangle is the sum of its three sides, we have: 8 + 10 + third side = 24. Solving the equation, we find that the length of the third side is 6 inches.</p><h3>Brainteaser Beaten! 🌟</h3><p>The length of the third side is <strong>6 inches</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "6, 8, 10, 24",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "The perimeter of a triangle is the sum of its three sides.",
+    "suggested_image": "A triangle"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area and Perimeter Mystery 🔴</h2><p>The area of a rectangle is 45 square units. If the length is 9 units, what is the perimeter of the rectangle?</p> <img src=\"Images/Question 1571.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>32 units</li><li>28 units</li><li>36 units</li><li>40 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Mystery 🔴</h2><div class=\"example\"><h3>Solution:</h3><p>Since the area of a rectangle is length * width, we can find the width by dividing the area by the length. Then, we can calculate the perimeter using the formula 2(length + width).</p><p>Given: Area = 45, Length = 9 units. Width = 45 / 9 = 5 units. Perimeter = 2(9 + 5) = 28 units.</p><h3>Mystery Solved! 🌟</h3><p>The perimeter of the rectangle is <strong>28 units</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "numeric_values": "28, 45, 9",
+    "difficulty_level": "8",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "The perimeter of a rectangle is 2(length + width).",
+    "suggested_image": "A rectangle"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area and Perimeter Enigma 🔴</h2><p>A rectangular plot has a length of 15 meters and a perimeter of 56 meters. What is the width of the plot?</p> <img src=\"Images/Question 1582.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>13 meters</li><li>11 meters</li><li>9 meters</li><li>7 meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Enigma 🔴</h2><div class=\"example\"><h3>Solution:</h3><p>Since the perimeter of a rectangle is 2(length + width), we have: 2(15 + width) = 56. Solving the equation, we find that the width is 13 meters.</p><h3>Enigma Unraveled! 🌟</h3><p>The width of the plot is <strong>13 meters</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "13, 15, 56",
+    "difficulty_level": "7",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a rectangle is 2(length + width).",
+    "suggested_image": "A rectangular plot"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Area and Perimeter Challenge 🔴</h2><p>A composite figure is made up of a rectangle with dimensions (2x + 3) units by 5 units and a square with side length (x - 1) units. Using the distributive property, what is the total area of the figure?</p> <img src=\"Images/Question 1593.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>10x + 12 square units</li><li>7x + 2 square units</li><li>10x - 3 square units</li><li>x^2 + 8x + 16 square units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area and Perimeter Challenge 🔵</h2><div class='example'><h3>Solution:</h3><p>The area of the rectangle is (2x + 3) * 5 = 10x + 15 square units. The area of the square is (x - 1)^2 = x^2 - 2x + 1 square units. Adding both areas, the total area of the figure is 10x + 15 + x^2 - 2x + 1 = x^2 + 8x + 16 square units.</p><h3>Great Job! 🌟</h3><p>The total area of the figure is <strong>x^2 + 8x + 16 square units</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "numeric_values": "10, 7, 10, 7",
+    "difficulty_level": "8",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Use the distributive property to find the area of each shape and then add them together.",
+    "suggested_image": "Composite figure with rectangle and square"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔺 Perimeter Puzzle 🔺</h2><p>A rectangle has a length of 12 units and a width of 8 units. What is the perimeter of the rectangle?</p> <img src=\"Images/Question 1604.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>16 units</li><li>32 units</li><li>40 units</li><li>64 units</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Puzzle 🔻</h2><div class='example'><h3>Solution:</h3><p>The perimeter of a rectangle is given by the formula P = 2(length + width). Substituting the values, P = 2(12 + 8) = 2(20) = 40 units.</p><h3>Well Done! 🌟</h3><p>The perimeter of the rectangle is <strong>40 units</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "numeric_values": "16, 32, 48, 64",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a rectangle is the sum of all its sides.",
+    "suggested_image": "Rectangle with dimensions labeled"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔵 Area Adventure 🔴</h2><p>A garden is in the shape of a square with a side length of 15 feet. What is the area of the garden?</p> <img src=\"Images/Question 1615.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>30 square feet</li><li>60 square feet</li><li>120 square feet</li><li>225 square feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Adventure 🔵</h2><div class='example'><h3>Solution:</h3><p>The area of a square is given by the formula A = side length * side length. Substituting the value, A = 15 * 15 = 225 square feet.</p><h3>Fantastic! 🌟</h3><p>The area of the garden is <strong>225 square feet</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "numeric_values": "30, 60, 120, 225",
+    "difficulty_level": "2",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area of a square is side length squared.",
+    "suggested_image": "Square garden"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🟠 Perimeter Problem 🟢</h2><p>A field is in the shape of a rectangle with a length of 18 meters and a width of 12 meters. What is the perimeter of the field?</p> <img src=\"Images/Question 1627.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>30 meters</li><li>36 meters</li><li>48 meters</li><li>60 meters</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Problem 🟠</h2><div class='example'><h3>Solution:</h3><p>The perimeter of a rectangle is given by the formula P = 2(length + width). Substituting the values, P = 2(18 + 12) = 2(30) = 60 meters.</p><h3>Excellent Work! 🌟</h3><p>The perimeter of the field is <strong>60 meters</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "numeric_values": "30, 36, 48, 60",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a rectangle is the sum of all its sides.",
+    "suggested_image": "Field in the shape of a rectangle"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🟡 Area Amazement 🟢</h2><p>A room has the dimensions 10 feet by 8 feet. What is the area of the room?</p> <img src=\"Images/Question 1637.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>16 square feet</li><li>64 square feet</li><li>80 square feet</li><li>100 square feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Amazement 🟡</h2><div class='example'><h3>Solution:</h3><p>The area of a rectangle is given by the formula A = length * width. Substituting the values, A = 10 * 8 = 80 square feet.</p><h3>Brilliant! 🌟</h3><p>The area of the room is <strong>80 square feet</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "numeric_values": "16, 64, 80, 100",
+    "difficulty_level": "1",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area of a rectangle is length multiplied by width.",
+    "suggested_image": "Room with dimensions labeled"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Rectangle Area Challenge 🔵</h2><p>If the length of a rectangle is 5 units and the width is 3 units, what is the area of the rectangle?</p> <img src=\"Images/Question 1648.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>10 square units</li><li>12 square units</li><li>15 square units</li><li>8 square units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Rectangle Area Challenge 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of a rectangle, multiply the length by the width. So, 5 units * 3 units = 15 square units.</p><h3>Rectangle Revelation! 🌟</h3><p>The area of the rectangle is <strong>15 square units</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "2",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember, area of a rectangle = length * width"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Triangle Perimeter Puzzle 🔺</h2><p>If the sides of a triangle measure 4 units, 5 units, and 6 units, what is the perimeter of the triangle?</p> <img src=\"Images/Question 1657.png\" alt=\"Image of the triangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>14 units</li><li>15 units</li><li>16 units</li><li>17 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Triangle Perimeter Puzzle 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>To find the perimeter of a triangle, add the lengths of all three sides. So, 4 units + 5 units + 6 units = 15 units.</p><h3>Triangular Triumph! 🌟</h3><p>The perimeter of the triangle is <strong>15 units</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a triangle is the sum of the lengths of its three sides"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Square Perimeter Predicament 🔵</h2><p>If the perimeter of a square is 20 units, what is the length of each side?</p> <img src=\"Images/Question 1666.png\" alt=\"Image of the square\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>4 units</li><li>5 units</li><li>6 units</li><li>8 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Square Perimeter Predicament 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>To find the length of each side of a square, divide the perimeter by 4. So, 20 units / 4 = 5 units.</p><h3>Square Success! 🌟</h3><p>The length of each side of the square is <strong>5 units</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember, perimeter of a square = 4 * side length"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Trapezoid Area Teaser 🔺</h2><p>If the bases of a trapezoid are 6 units and 8 units, and the height is 4 units, what is the area of the trapezoid?</p> <img src=\"Images/Question 1675.png\" alt=\"Image of the trapezoid\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>36 square units</li><li>28 square units</li><li>24 square units</li><li>20 square units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Trapezoid Area Teaser 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of a trapezoid, use the formula: ((base1 + base2) * height) / 2. Substituting the values: ((6 + 8) * 4) / 2 = 28 square units.</p><h3>Trapezoid Triumph! 🌟</h3><p>The area of the trapezoid is <strong>28 square units</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Area of a trapezoid = ((base1 + base2) * height) / 2"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Perimeter of Irregular Shape 🔄</h2><p>Given the following irregular shape, what is the perimeter?</p><p style=\"text-align:center;\"><img src=\"Images/Question 1684.png\" alt=\"Image of irregular shape\" style=\"width:100%; max-width:300px; height:auto;\"> </p><ol type=\"A\"><li>24 units</li><li>28 units</li><li>32 units</li><li>36 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter of Irregular Shape 🔄</h2><div class=\"example\"><h3>Solution:</h3><p>To find the perimeter of an irregular shape, add the lengths of all its sides. Counting the sides and measuring, we find the perimeter is 32 units.</p><h3>Shape Success! 🌟</h3><p>The perimeter of the irregular shape is <strong>32 units</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Break down the shape into simpler parts to calculate the perimeter"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Area of Composite Figure Conundrum 🔺</h2><p>Calculate the area of the composite figure below, made up of a rectangle and a triangle:</p><p style=\"text-align:center;\"><img src=\"Images/Question 1693.png\" alt=\"Image of the Composite Figure\" style=\"width:100%; max-width:300px; height:auto;\"></p><ol type=\"A\"><li>30 square units</li><li>36 square units</li><li>40 square units</li><li>45 square units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area of Composite Figure Conundrum 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>First, find the area of the rectangle: 6 units * 5 units = 30 square units. Then, find the area of the triangle: (3 units * 4 units) / 2 = 6 square units. Add them together to get 36 square units.</p><h3>Composite Conquest! 🌟</h3><p>The area of the composite figure is <strong>36 square units</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "7",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Break down the figure into simpler shapes to calculate the total area"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Perimeter Word Problem 🔄</h2><p>If the length of a rectangular garden is 12 units and the width is 8 units, what is the perimeter of the garden?</p> <img src=\"Images/Question 1702.png\" alt=\"Image of a rectangular garden\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>40 units</li><li>32 units</li><li>28 units</li><li>24 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Word Problem 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>To find the perimeter of the garden, use the formula: 2 * (length + width). Substituting the values: 2 * (12 units + 8 units) = 40 units.</p><h3>Garden Glory! 🌟</h3><p>The perimeter of the garden is <strong>40 units</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "8",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Perimeter of a rectangle = 2 * (length + width)"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Area and Perimeter Challenge 🔺</h2><p>A rectangular field has a length of 15 units and a width of 7 units. Calculate both the area and perimeter of the field.</p> <img src=\"Images/Question 1711.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>Area: 90 square units, Perimeter: 44 units</li><li>Area: 105 square units, Perimeter: 42 units</li><li>Area: 105 square units, Perimeter: 44 units</li><li>Area: 90 square units, Perimeter: 42 units</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area and Perimeter Challenge 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>Area of the field: 15 units * 7 units = 105 square units. Perimeter of the field: 2 * (15 units + 7 units) = 44 units.</p><h3>Field Feat! 🌟</h3><p>The area is <strong>105 square units</strong> and the perimeter is <strong>44 units</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "9",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember, area = length * width and perimeter = 2 * (length + width)"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Area Comparison Challenge 🔵</h2><p>Compare the area of a square with side length 9 units to the area of a rectangle with length 12 units and width 6 units.</p> <img src=\"Images/Question 1720.png\" alt=\"Image of the square and rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>Area of square is greater</li><li>Area of rectangle is greater</li><li>Both areas are equal</li><li>Cannot be determined</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area Comparison Challenge 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>Area of the square: 9 units * 9 units = 81 square units. Area of the rectangle: 12 units * 6 units = 72 square units. Therefore, the area of the square is greater.</p><h3>Area Analysis! 🌟</h3><p>The area of the square is <strong>greater</strong> than the area of the rectangle.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "10",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Calculate the areas of both shapes and compare them"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Rectangle Area Challenge 🔵</h2><p>Ahaan wants to create a rectangular garden with a perimeter of 36 feet. If the length is 2 times the width, what are the dimensions of the garden?</p> <img src=\"Images/Question 1729.png\" alt=\"Image of the rectangular garden\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>Length = 8 feet, Width = 4 feet</li><li>Length = 10 feet, Width = 5 feet</li><li>Length = 12 feet, Width = 6 feet</li><li>Length = 14 feet, Width = 7 feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Rectangle Area Challenge 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>To find the dimensions of the garden, let the width be x feet. Then, the length is 2x feet. Perimeter = 2(2x + x) = 6x = 36 feet. Therefore, x = 6 feet, and the dimensions are Length = 12 feet, Width = 6 feet.</p><h3>Rectangle Revelation! 🌟</h3><p>The dimensions of the garden are <strong>Length = 12 feet, Width = 6 feet</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "4",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Use the formula for the perimeter of a rectangle to solve for the dimensions"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Square Perimeter Predicament 🔵</h2><p>Ru is designing a square patio with an area of 64 square feet. What is the perimeter of the patio?</p> <img src=\"Images/Question 1738.png\" alt=\"Image of the square\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>24 feet</li><li>32 feet</li><li>40 feet</li><li>48 feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Square Perimeter Predicament 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>To find the perimeter of the square, use the formula: Perimeter = 4 * side length. Given that the area is 64 square feet, side length = sqrt(64) = 8 feet. Therefore, Perimeter = 4 * 8 = 32 feet.</p><h3>Square Success! 🌟</h3><p>The perimeter of the patio is <strong>32 feet</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Use the relationship between area and side length to find the perimeter"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Square Perimeter Predicament 🔵</h2><p>Vish is creating a circular pond with a diameter of 10 feet. What is the approximate area of the pond?</p> <img src=\"Images/Question 1747.png\" alt=\"Image of a circular pond\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>31.4 square feet</li><li>62.8 square feet</li><li>78.5 square feet</li><li>94.2 square feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Square Perimeter Predicament 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>To find the area of the circular pond, use the formula: Area = π * (radius)^2. Given the diameter is 10 feet, the radius is 10 / 2 = 5 feet. Therefore, Area = 3.14 * 5^2 = 78.5 square feet.</p><h3>Square Success! 🌟</h3><p>The approximate area of the pond is <strong>78.5 square feet</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember the formula for the area of a circle in terms of radius"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Area Challenge 🔷</h2><p>A rectangular swimming pool has dimensions 12 feet by 8 feet. What is the area of the pool in square meters?</p><ol type='A'> <img src=\"Images/Question 1756.png\" alt=\"Image of a rectangular swimming\" style=\"width:100%; max-width:300px; height:auto;\"> <li>21.6 square meters</li><li>9.6 square meters</li><li>8.91 square meters</li><li>16.8 square meters</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Challenge 🔹</h2><div class='example'><h3>Solution:</h3><p>To convert feet to meters, we must multiply by 0.3048. The area of the pool is 12 * 8 = 96 square feet. Converting to square meters, 96 * 0.3048 * 0.3048 = 8.91 square meters.</p><h3>Area Achievement! 🌟</h3><p>The area of the pool is <strong>8.91 square meters</strong>.</p></div></div>",
+    "correct_answer": "C",
+    "difficulty_level": "4",
+    "hint": "To convert from feet to meters, use the conversion factor 0.3048"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔺 Perimeter Puzzle 🔺</h2><p>A rectangular garden has a length of 15 feet and a width of 10 feet. What is the perimeter of the garden in feet?</p> <img src=\"Images/Question 1763.png\" alt=\"Image of a rectangular garden\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>40 feet</li><li>50 feet</li><li>30 feet</li><li>25 feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Puzzle 🔻</h2><div class='example'><h3>Solution:</h3><p>The perimeter of a rectangle is given by 2 * (length + width). Substituting the values, we get 2 * (15 + 10) = 2 * 25 = 50 feet.</p><h3>Perimeter Power! 🌟</h3><p>The perimeter of the garden is <strong>50 feet</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "3",
+    "hint": "Perimeter of a rectangle is 2 * (length + width)"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔵 Area Adventure 🔵</h2><p>A square field has a side length of 9 feet. What is the area of the field in square feet?</p> <img src=\"Images/Question 1770.png\" alt=\"Image of a square field\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>81 square feet</li><li>18 square feet</li><li>27 square feet</li><li>36 square feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Adventure 🔹</h2><div class='example'><h3>Solution:</h3><p>The area of a square is given by side length squared. Therefore, the area of the field is 9 * 9 = 81 square feet.</p><h3>Area Accomplishment! 🌟</h3><p>The area of the field is <strong>81 square feet</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "2",
+    "hint": "The area of a square is side length squared"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Perimeter Predicament 🔷</h2><p>A rectangular table has a length of 6 feet and a width of 4 feet. What is the perimeter of the table in feet?</p> <img src=\"Images/Question 1777.png\" alt=\"Image of a rectangular table\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>8 feet</li><li>20 feet</li><li>24 feet</li><li>32 feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Predicament 🔹</h2><div class='example'><h3>Solution:</h3><p>The perimeter of a rectangle is given by 2 * (length + width). Substituting the values, we get 2 * (6 + 4) = 2 * 10 = 20 feet.</p><h3>Perimeter Proficiency! 🌟</h3><p>The perimeter of the table is <strong>20 feet</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "3",
+    "hint": "Perimeter of a rectangle is 2 * (length + width)"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔺 Area Amazement 🔺</h2><p>A rectangular room has a length of 18 feet and a width of 5 feet. What is the area of the room in square feet?</p> <img src=\"Images/Question 1784.png\" alt=\"Image of a rectangular room\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>90 square feet</li><li>23 square feet</li><li>72 square feet</li><li>45 square feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Amazement 🔹</h2><div class='example'><h3>Solution:</h3><p>The area of a rectangle is given by length multiplied by width. Therefore, the area of the room is 18 * 5 = 90 square feet.</p><h3>Area Awesomeness! 🌟</h3><p>The area of the room is <strong>90 square feet</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "2",
+    "hint": "The area of a rectangle is length multiplied by width"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔵 Perimeter Puzzle 🔵</h2><p>A square garden has a side length of 7 feet. What is the perimeter of the garden in feet?</p> <img src=\"Images/Question 1791.png\" alt=\"Image of the square garden\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>21 feet</li><li>28 feet</li><li>35 feet</li><li>14 feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Puzzle 🔹</h2><div class='example'><h3>Solution:</h3><p>The perimeter of a square is given by 4 * side length. Substituting the value, we get 4 * 7 = 28 feet.</p><h3>Perimeter Power! 🌟</h3><p>The perimeter of the garden is <strong>28 feet</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "3",
+    "hint": "The perimeter of a square is 4 times the side length"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Area Adventure 🔷</h2><p>A rectangular rug has a length of 10 feet and a width of 6 feet. What is the area of the rug in square feet?</p> <img src=\"Images/Question 1798.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>50 square feet</li><li>60 square feet</li><li>36 square feet</li><li>16 square feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Adventure 🔹</h2><div class='example'><h3>Solution:</h3><p>The area of a rectangle is given by length multiplied by width. Therefore, the area of the rug is 10 * 6 = 60 square feet.</p><h3>Area Accomplishment! 🌟</h3><p>The area of the rug is <strong>60 square feet</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "2",
+    "hint": "The area of a rectangle is length multiplied by width"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔺 Perimeter Predicament 🔺</h2><p>A rectangular box has a length of 7 feet and a width of 3 feet. What is the perimeter of the box in feet?</p> <img src=\"Images/Question 1805.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>14 feet</li><li>20 feet</li><li>24 feet</li><li>10 feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Predicament 🔹</h2><div class='example'><h3>Solution:</h3><p>The perimeter of a rectangle is given by 2 * (length + width). Substituting the values, we get 2 * (7 + 3) = 2 * 10 = 20 feet.</p><h3>Perimeter Proficiency! 🌟</h3><p>The perimeter of the box is <strong>20 feet</strong>.</p></div></div>",
+    "correct_answer": "B",
+    "difficulty_level": "3",
+    "hint": "Perimeter of a rectangle is 2 * (length + width)"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔵 Area Amazement 🔵</h2><p>A square table has a side length of 12 feet. What is the area of the table in square feet?</p> <img src=\"Images/Question 1812.png\" alt=\"Image of the square\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>144 square feet</li><li>24 square feet</li><li>36 square feet</li><li>48 square feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Area Amazement 🔹</h2><div class='example'><h3>Solution:</h3><p>The area of a square is given by side length squared. Therefore, the area of the table is 12 * 12 = 144 square feet.</p><h3>Area Awesomeness! 🌟</h3><p>The area of the table is <strong>144 square feet</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "2",
+    "hint": "The area of a square is side length squared"
+  },
+  {
+    "question_html": "<div class='container'><div class='question'><h2>🔷 Perimeter Puzzle 🔷</h2><p>A rectangular whiteboard has a length of 9 feet and a width of 7 feet. What is the perimeter of the whiteboard in feet?</p> <img src=\"Images/Question 1819.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type='A'><li>32 feet</li><li>34 feet</li><li>28 feet</li><li>30 feet</li></ol></div></div>",
+    "solution_html": "<div class='container'><h2>Perimeter Puzzle 🔹</h2><div class='example'><h3>Solution:</h3><p>The perimeter of a rectangle is given by 2 * (length + width). Substituting the values, we get 2 * (9 + 7) = 2 * 16 = 32 feet.</p><h3>Perimeter Power! 🌟</h3><p>The perimeter of the whiteboard is <strong>32 feet</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "3",
+    "hint": "Perimeter of a rectangle is 2 * (length + width)"
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Area & Perimeter Challenge 🔺</h2><p>A rectangular field has a length of 20 yards and a width of 15 yards. What is the area of the field in square feet?</p> <img src=\"Images/Question 1826.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>2700 sq ft</li><li>225 sq ft</li><li>400 sq ft</li><li>250 sq ft</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Area & Perimeter Challenge 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>To convert yards to feet, we know that 1 yard is equal to 3 feet. Therefore, the length becomes 20 yards * 3 = 60 feet and the width becomes 15 yards * 3 = 45 feet. The area of the rectangular field is length * width, so 60 feet * 45 feet = 2700 square feet.</p><h3>Rectangular Revelation! 🌟</h3><p>The area of the field is <strong>2700 square feet</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "difficulty_level": "5",
+    "tags": "Geometry, Conversion",
+    "grade_level": "4",
+    "hint": "Remember to convert the dimensions from yards to feet before calculating the area.",
+    "suggested_image": "A rectangular field with dimensions labeled in yards and feet."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔲 Square Tiles Challenge 🔲</h2><p>If a floor is made up of square tiles arranged in a pattern and each tile has a side length of 5 inches, how many square tiles are needed to cover a floor that is 20 feet long and 15 feet wide?</p> <img src=\"Images/Question 1836.png\" alt=\"Image of the square and rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>240 tiles</li><li>160 tiles</li><li>200 tiles</li><li>8,640 tiles</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Square Tiles Challenge 🔳</h2><div class=\"example\"><h3>Solution:</h3><p>First, convert the measurements to inches: 20 feet = 240 inches and 15 feet = 180 inches. Next, calculate the area of the floor: 240 inches * 180 inches = 43,200 square inches. Since each tile is 5 inches on a side, the number of tiles needed is 43,200 square inches / 5 square inches per tile = 8,640 tiles.</p><h3>Tile Triumph! 🌟</h3><p>The number of square tiles needed is <strong>8,640 tiles</strong>.</p></div></div>",
+    "correct_answer": "D",
+    "numeric_values": "8640",
+    "difficulty_level": "8",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember to convert the measurements to the same unit before calculating area.",
+    "suggested_image": "A floor covered with square tiles."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔺 Triangular Path Challenge 🔺</h2><p>Ru is walking along a triangular path with sides of length 10 meters, 12 meters, and 15 meters. What is the total distance she travels if she walks around the path 4 times?</p> <img src=\"Images/Question 1847.png\" alt=\"Image of the triange\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>148 meters</li><li>180 meters</li><li>192 meters</li><li>200 meters</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Triangular Path Challenge 🔻</h2><div class=\"example\"><h3>Solution:</h3><p>The perimeter of the triangular path is 10 + 12 + 15 = 37 meters. If Ru walks around the path 4 times, the total distance traveled is 37 meters * 4 = 148 meters.</p><h3>Pathway Power! 🌟</h3><p>The total distance Ru travels is <strong>148 meters</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "148",
+    "difficulty_level": "5",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Find the perimeter of the triangular path first.",
+    "suggested_image": "A triangular path with labeled side lengths."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔷 Rectangular Garden Challenge 🔷</h2><p>A rectangular garden has a length of 18 feet and a width of 12 feet. What is the area of the garden in square yards?</p> <img src=\"Images/Question 1858.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>24 square yards</li><li>36 square yards</li><li>48 square yards</li><li>54 square yards</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Rectangular Garden Challenge 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>First, convert the measurements to yards: 18 feet = 6 yards and 12 feet = 4 yards. The area of the garden is 6 yards * 4 yards = 24 square yards.</p><h3>Garden Glory! 🌟</h3><p>The area of the garden is <strong>24 square yards</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "24",
+    "difficulty_level": "3",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember to convert the measurements to the same unit before calculating area.",
+    "suggested_image": "A rectangular garden with labeled length and width."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔵 Perimeter Puzzle Challenge 🔵</h2><p>A circular swimming pool has a diameter of 24 feet. What is the perimeter of the pool in feet?</p> <img src=\"Images/Question 1869.png\" alt=\"Image of the Circle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>24π feet</li><li>48 feet</li><li>72 feet</li><li>96π feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Perimeter Puzzle Challenge 🔹</h2><div class=\"example\"><h3>Solution:</h3><p>The perimeter of a circle is the same as the circumference, which is calculated as π times the diameter. Given the diameter is 24 feet, the perimeter is 24π feet.</p><h3>Pool Power! 🌟</h3><p>The perimeter of the pool is <strong>24π feet</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "24π",
+    "difficulty_level": "6",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Remember the formula for the circumference of a circle.",
+    "suggested_image": "A circular swimming pool with a diameter labeled."
+  },
+  {
+    "question_html": "<div class=\"container\"><div class=\"question\"><h2>🔶 Mixed Shapes Challenge 🔶</h2><p>A playground has a rectangular sandbox with dimensions 10 feet by 8 feet and a circular swing area with a radius of 6 feet. What is the total perimeter of the playground in feet?</p> <img src=\"Images/Question 1880.png\" alt=\"Image of the Rectangle\" style=\"width:100%; max-width:300px; height:auto;\"> <ol type=\"A\"><li>36 + 12π feet</li><li>52 + 12π feet</li><li>48 + 12π feet</li><li>40 + 12π feet</li></ol></div></div>",
+    "solution_html": "<div class=\"container\"><h2>Mixed Shapes Challenge 🔸</h2><div class=\"example\"><h3>Solution:</h3><p>The perimeter of the rectangular sandbox is 2(10 + 8) = 36 feet. The perimeter of the circular swing area is 2π(6) = 12π feet. Adding them together gives a total perimeter of 36 + 12π feet.</p><h3>Playground Power! 🌟</h3><p>The total perimeter of the playground is <strong>36 + 12π feet</strong>.</p></div></div>",
+    "correct_answer": "A",
+    "numeric_values": "36 + 12π",
+    "difficulty_level": "7",
+    "tags": "Geometry",
+    "grade_level": "4",
+    "hint": "Calculate the perimeter of each shape separately and then add them together.",
+    "suggested_image": "A playground with a rectangular sandbox and a circular swing area labeled."
+  }
+]
